@@ -43,7 +43,6 @@
       .pipe(replace(/<body id="(NoSkill|FrontierSpirit|Fate_Conspiracies|Sails_Full_of_Stars_SRD|GodsSRD|Open_Source_Chunk)" lang="en-US">/g,''))
       .pipe(replace(/<link href="((.)*?).css" rel="stylesheet" type="text\/css" \/>/g,''))
       .pipe(replace('xml:lang="en-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"',''))
-      .pipe(replace('',''))
 
       // Formating
       .pipe(replace('<p class="Heading-1">','\n# '))
@@ -62,17 +61,7 @@
       .pipe(replace('<p class="Example-end">','\n block> '))
       .pipe(replace('<p class="Example-middle">','\n block> '))
       .pipe(replace('<p class="Example">','\n block> '))
-      // .pipe(replace(/<h([123456])>/gi,function(match){
-      //   console.log('Match found ' + match)
-      // }))
-      .pipe(replace('<h1','#'))
-      .pipe(replace('<h2','##'))
-      .pipe(replace('<h3','###'))
-      .pipe(replace('<h4','####'))
-      .pipe(replace('<h5','#####'))
-      .pipe(replace('<h6','######'))
-      .pipe(replace('<ul>',''))
-      .pipe(replace('</ul>',''))
+      
       .pipe(replace(/<\s*li[^>]*>(.*?)<\s*\/\s*li>/g, '- $1'))
       .pipe(replace(/^-../g,'- '))
       .pipe(replace(/<span class="Emphasis">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
@@ -95,7 +84,6 @@
       // Remove anchors
       .pipe(replace(/<a id="((.|\n|)*?)"><\/a>/g,'foo'))
       .pipe(replace(/<a href="#((.|\n)*?)">((.|\n)*?)<\/a>/g,''))
-      .pipe(replace('<a></a>',''))
 
       // Remove class and ids
       .pipe(replace(/(class)=\"(.*?)\"/g, ''))
@@ -103,6 +91,48 @@
       .pipe(replace(/\s*>/g,'>'))
       // Remove empty <span>
       .pipe(replace(/<span>((.|\n)*?)<\/span>/gi,'$1'))
+
+      .pipe(replace('<ul>',''))
+      .pipe(replace('</ul>',''))
+      .pipe(replace('<a></a>',''))
+
+      .pipe(replace(/<h[123456]>/g, function(match, offset, string){
+        switch(match) {
+          case '<h1>':
+            return '# '
+            break;
+          case '<h2>':
+            return '## '
+            break;
+          case '<h3>':
+            return '### '
+            break;
+          case '<h4>':
+            return '#### '
+            break;
+          case '<h5>':
+            return '##### '
+            break;
+          case '<h6>':
+            return '###### '
+            break;
+          default:
+            console.log('Criteria not met')
+        }
+      }))
+      .pipe(replace(/<\/h[123456]>/g, function(match, offset, string){
+        switch(match) {
+          case '</h1>':
+          case '</h2>':
+          case '</h3>':
+          case '</h4>':
+          case '</h5>':
+          case '</h6>':
+            return ''
+          default:
+            console.log('Criteria not met')
+        }
+      }))
       
       // Remove elements
       .pipe(replace('<p>','\n'))
@@ -111,20 +141,27 @@
       .pipe(replace('</div>',''))
       .pipe(replace('</body>',''))
       .pipe(replace('</html>',''))
+      .pipe(replace('<br/>',''))
+      .pipe(replace('<br />',''))
 
       // Remove extra space at the start of a line.
       .pipe(replace(/\t*/g, ''))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/\n /g,'\n'))
 
       // Add aspect class
       .pipe(replace(/<aspect>((.|\n)*?)<\/aspect>/gi,'<span class="aspect">$1<\/span>'))
       
       // Fix blockquotes
-      .pipe(replace(' block> ','> '))
+      .pipe(replace('block> ','> '))
       
       // Fix errors
       .pipe(replace('</span><span class="aspect">',''))
       .pipe(replace('</strong><strong>',''))
       .pipe(replace('</em><em>',''))
+      .pipe(replace('<hr />',''))
 
       // Clean up newlines
       .pipe(replace(/\n\n\n/g, '\n\n'))
