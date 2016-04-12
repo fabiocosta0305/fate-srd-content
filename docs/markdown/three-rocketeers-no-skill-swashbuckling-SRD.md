@@ -12,7 +12,7 @@ This work is based on the No-Skill Swashbuckling SRD (found at http://www.faterp
 
 Each PC has six aspects that describe the character. 
 
-<strong>Hero:</strong> This is about the character’s status and history as a hero.  
+<strong>Hero:</strong> This is about the character’s status and history as a hero. 
 
 <strong>Trouble:</strong> Despite being heroes, PCs all have a flaw that humanizes them. Your trouble will bring drama and tension into the game. 
 

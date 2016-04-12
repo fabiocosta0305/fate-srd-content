@@ -222,8 +222,8 @@ The cost of a mode equals the total combined cost of its skills. The cost of an 
 For example, here are the costs of our standard action-adventure modes:
 <table>
 <colgroup>
-<col  />
-<col  />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr>
@@ -316,8 +316,8 @@ Regardless of how many modes reinforce a skill, it should never appear more than
 Reinforcement isn’t the only way for a skill to be rated higher than its mode’s rating. You can also spend excess skill points, whether during character creation, during play, or after an appropriate milestone, to improve skills as well.
 <table>
 <colgroup>
-<col  />
-<col  />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr>
@@ -669,7 +669,7 @@ With this option, you can tack a weakness or a cost onto a mega-stunt even if it
 The process of inventing involves one or more PCs figuring out what needs to be built, what that thing will actually do in game terms, and what complications will arise as a result. All of this only takes one skill roll—the rest is making choices and playing out their ramifications.
 <table>
 <colgroup>
-<col  />
+<col />
 </colgroup>
 <tbody>
 <tr>
@@ -746,8 +746,8 @@ For every stunt benefit an invention has, there’s a catch. For example, an inv
 Who chooses these catches? That depends on the outcome of the skill roll from Step Three.
 <table>
 <colgroup>
-<col  />
-<col  />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr>
@@ -908,9 +908,9 @@ Next, all participants roll <em>simultaneously</em> to create an advantage using
 Whoever succeeds <em>and</em> has the highest result (make a note of number) is the “winner.” The winner gets to do two things. First, they record one or more victories, depending on the margin of success.
 <table>
 <colgroup>
-<col  />
-<col  />
-<col  />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr>
@@ -1057,8 +1057,8 @@ The hypothesis becomes an aspect, like <span class="aspect">The Washington Monum
 The number of free invocations on the hypothesis aspect (if any) depends on how many total victories were scored in the brainstorm, as shown on the table.
 <table>
 <colgroup>
-<col  />
-<col  />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr>

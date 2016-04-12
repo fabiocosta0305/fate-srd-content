@@ -22,9 +22,9 @@ Conspiracy aspects are campaign aspects that begin play hidden from the players.
 
 <strong>Alliance:</strong> A conspiracy’s alliance aspect names its primary architects. It’s blatant and obvious but that’s what makes it powerful in play. When the aspect is revealed to the players, it focuses them and gives them a direction for their efforts. Or the alliance aspect can be revealed early in play, leaving the players leads but no proof of perfidy until they can discover the goal and the weakness that can be exploited. 
 
-<strong>Goal:</strong> The purpose of the conspiracy, its endgame, is represented by its goal aspect.  
+<strong>Goal:</strong> The purpose of the conspiracy, its endgame, is represented by its goal aspect. 
 
-<strong>Weakness:</strong> A conspiracy’s weakness aspect is like a PC’s trouble—it complicates matters and provides an opportunity for opponents to capitalize on the shortcomings of those pulling the strings. After all, a conspiracy is a human organization and subject to the same failings of any human endeavor.  
+<strong>Weakness:</strong> A conspiracy’s weakness aspect is like a PC’s trouble—it complicates matters and provides an opportunity for opponents to capitalize on the shortcomings of those pulling the strings. After all, a conspiracy is a human organization and subject to the same failings of any human endeavor. 
 
 ### Conspiracy Approaches
 
