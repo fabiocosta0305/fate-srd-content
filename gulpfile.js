@@ -224,6 +224,7 @@
       .pipe(replace(/<p class="Sidebar-Body">/gi, '> '))
       .pipe(replace(/<li>/gi, '- '))
       .pipe(replace(/<\/strong>\n/g, '</strong> '))
+      .pipe(replace(/## <strong>((.|\n)*?)<\/strong>/gi, '## $1'))
 
 
       // .pipe(replace(/<span class="Strong">((.|\n)*?)<\/span>/gi,'<strong>$1<\/strong>'))

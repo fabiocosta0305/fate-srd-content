@@ -118,7 +118,7 @@ If you prefer, you can leave one or both of these aspects blank right now and fi
 Describe your character’s appearance and give them a name.
 <hr />
 
-> ## <strong>CREATING CHARACTERS: THE 30-SECOND VERSION</strong>
+> ## CREATING CHARACTERS: THE 30-SECOND VERSION
 
 - Write two aspects: a high concept and a trouble.
 
@@ -155,7 +155,7 @@ Approaches are descriptions of <em>how</em> you accomplish tasks. Everyone has t
 Each approach is rated with a bonus. Choose one at Good (+3), two at Fair (+2), two at Average (+1), and one at Mediocre (+0). You can improve these later. We talk about <a href="#sigil_toc_id_15">what each approach means</a> and how you use them in <a href="#how"><em>How to Do Stuff: Outcomes, Approaches, and Actions</em></a>.
 <hr />
 
-> ## <strong>THE LADDER</strong>
+> ## THE LADDER
 
 > In Fate, we use a ladder of adjectives and numbers to rate a character’s approaches, the result of a roll, difficulty ratings for simple checks, etc.
 
@@ -238,7 +238,7 @@ A stunt is a special trait that changes the way an approach works for your chara
 Your refresh is the number of fate points you begin each game session with—unless you ended the previous session with more unspent fate points than your refresh, in which case you start with the number you had left last time. By default, your refresh starts at three and is reduced by one for each stunt <em>after</em> the first three you choose—essentially, your first three stunts are free! As your character advances, you’ll get opportunities to add to your refresh. Your refresh may never go below one.
 <hr />
 
-> ## <strong>HOW MANY STUNTS?</strong>
+> ## HOW MANY STUNTS?
 
 > By default, <span class="Emphasis-Sidebar">FAE</span> suggests choosing one stunt to start with.
 
@@ -258,6 +258,7 @@ How do you know if you’re successful? Often, you just succeed, because the act
 
 <strong>TAKING ACTION: THE 30-SECOND VERSION</strong>
 
+<ol>
 - Describe what you want your character to do. See if someone or something can stop you.
 
 - Decide what action you’re taking: create an advantage, overcome, attack, or defend.
@@ -269,7 +270,7 @@ How do you know if you’re successful? Often, you just succeed, because the act
 - Decide whether to modify your roll with aspects.
 
 - Figure out your outcome.
-
+</ol>
 <hr />
 
 ## Dice or Cards
@@ -342,7 +343,7 @@ Creating an advantage is anything you do to try to help yourself or one of your 
 
 <hr />
 
-> ## <strong>ACTIONS &amp; OUTCOMES: THE 30-SECOND VERSION</strong>
+> ## ACTIONS &amp; OUTCOMES: THE 30-SECOND VERSION
 
 > <span class="Strong-Sidebar"><strong>Create an Advantage when creating or discovering aspects:</strong></span>
 
@@ -499,13 +500,15 @@ The first participant to achieve three victories wins the contest.
 Conflicts are used to resolve situations where characters are trying to harm one another. It could be physical harm (a sword fight, a wizard’s duel, a battle with laser blasters), but it could also be mental harm (a shouting match, a tough interrogation, a magical psychic assault).
 <hr />
 
-> ## <strong>CONFLICTS: THE 30-SECOND VERSION</strong>
+> ## CONFLICTS: THE 30-SECOND VERSION
 
+<ol>
 - 1. Set the scene.
 
 - 2. Determine turn order.
 
 - 3. Start the first exchange.
+</ol>
 
 - On your turn, take an action.
 
@@ -551,7 +554,7 @@ Then, one of two things happens:
 
 <hr />
 
-> ## <strong>STRESS &amp; CONSEQUENCES: THE 30-SECOND VERSION</strong>
+> ## STRESS &amp; CONSEQUENCES: THE 30-SECOND VERSION
 
 - Each character starts with three stress boxes.
 
@@ -616,7 +619,7 @@ At the end of each scene, clear all of your stress boxes. Recovery from a conseq
 
 <hr />
 
-> ## <strong>RENAMING MODERATE AND SEVERE CONSEQUENCES</strong>
+> ## RENAMING MODERATE AND SEVERE CONSEQUENCES
 
 > Moderate and severe consequences stick around for a while. Therefore, at some point you may want to change the name of the aspect to better fit what’s going on in the story. For instance, after you get some medical help, <span class="aspect">Painful Broken Leg</span> might make more sense if you change it to <span class="aspect">Hobbling on Crutches</span>.
 
@@ -835,7 +838,7 @@ In addition to the benefit of a minor milestone, you also gain <em>both</em> of 
 
 <hr />
 
-> ## <strong>RAISING APPROACH BONUSES</strong>
+> ## RAISING APPROACH BONUSES
 
 > When you raise the bonus of an approach, there’s only one rule you need to remember: you can’t raise an approach bonus above Superb (+5).
 <hr />
@@ -872,7 +875,7 @@ A campaign is a series of games you play with the same characters, where the sto
 
 <hr />
 
-> ## <strong>LEARNING HOW TO BE A GM</strong>
+> ## LEARNING HOW TO BE A GM
 
 > Being a GM and running games can seem intimidating and difficult at first. It’s a skill that takes some practice to master, so don’t worry—you’ll get better the more you do it. If you’d like to read more about the art of GMing Fate, there are several chapters in the <span class="Emphasis-Sidebar">Fate Core</span> rules that you should check out: <span class="Emphasis-Sidebar">Running the Game, Scenes, Sessions, and Scenarios,</span> and <span class="Emphasis-Sidebar">The Long Game</span> are particularly helpful. <span class="Emphasis-Sidebar">Fate Core</span> is available for free at <a href="http://www.evilhat.com"><em>www.evilhat.com</em></a>.
 <hr />
@@ -925,7 +928,7 @@ When another character is opposing a PC, their rolls provide the opposition in a
 
 <hr />
 
-> ## <strong>OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS</strong>
+> ## OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS
 
 > Sometimes being Careful makes things a lot easier; sometimes it just takes too long. The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach. This makes things a bit more complex, but for some groups it’s worth it.
 <hr />
@@ -936,6 +939,7 @@ When you make a bad guy, you can stat them out exactly like the PCs, with approa
 
 <strong>Mooks:</strong> Other bad guys are mooks—unnamed thugs or monsters or goons that are there to make the PCs’ day a little more difficult, but they’re designed to be more or less easily swept aside, especially by powerful PCs. Here’s how you create their stats:
 
+<ol>
  - Make a list of what this mook is skilled at. They get a +2 to all rolls dealing with these things.
 
  - Make a list of what this mook is bad at. They get a −2 to all rolls dealing with these things.
@@ -947,7 +951,7 @@ When you make a bad guy, you can stat them out exactly like the PCs, with approa
  - Mooks have zero, one, or two boxes in their stress track, depending on how tough you imagine them to be.
 
  - Mooks can’t take consequences. If they run out of stress boxes (or don’t have any), the next hit takes them down.
-
+</ol>
 <hr />
 
 <strong>CYCLOPS HOUSE BULLY</strong>
@@ -985,6 +989,7 @@ When you make a bad guy, you can stat them out exactly like the PCs, with approa
 
 <strong>Groups of Mooks:</strong> If you have a lot of low-level bad guys facing the PCs, you can make your job easier by treating them as a group—or maybe a few groups. Instead of tracking a dozen bad guys, you track three groups of four bad guys each. Each of these groups acts like a single character and has a set of stats just like a single mook would: 
 
+<ol>
  - Choose a couple of things they’re skilled at. You might designate “ganging up” as one of the things the group is good at.
 
  - Choose a couple of things they’re not so good at.
@@ -992,7 +997,7 @@ When you make a bad guy, you can stat them out exactly like the PCs, with approa
  - Give them an aspect. 
 
  - Give them one stress box for every two individuals in the group. 
-
+</ol>
 <hr />
 
 GANG OF THUGS

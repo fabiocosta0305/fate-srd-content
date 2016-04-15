@@ -68,7 +68,7 @@ If you’re a gamemaster, your primary job is to take responsibility for the wor
 Both players and gamemasters also have a secondary job: <strong>make everyone around you look awesome</strong>. Fate is best as a collaborative endeavor, with everyone sharing ideas and looking for opportunities to make the events as entertaining as possible.
 <hr>
 
-> ## <strong>THE EXAMPLE GAME</strong>
+> ## THE EXAMPLE GAME
 
 > All of our rules examples in this book refer to the same example game and setting. The name is <em>Hearts of Steel</em>, a tongue-in-cheek fantasy romp about a group of troubleshooters for hire. They traipse about the countryside and get into trouble at the behest of the various petty kings and fief lords who hire them.
 
@@ -318,7 +318,7 @@ Anyone at the table is free to suggest when a compel might be appropriate for an
 <p class="Normal-First">These are the basic things you need to know to play Fate. The following chapters go into greater detail on everything we’ve covered above, and will show you how to get your game off the ground.
 <hr>
 
-> ## <strong>WHERE TO GO FROM HERE</strong>
+> ## WHERE TO GO FROM HERE
 
 - The <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#game-creation"><em>Game Creation</em></a> chapter takes you through the process of setting up your game, so that should probably be your next stop. Then <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#character-creation"><em>Character Creation</em></a> will show you how to make the characters you’ll play.
 
@@ -366,7 +366,7 @@ Any Fate game that you play should provide the potential and opportunity for dra
 
 <hr>
 
-> ## <strong>WHEN CREATING YOUR GAME:</strong>
+> ## WHEN CREATING YOUR GAME:
 
 - <strong>Setting:</strong> Decide what the world that surrounds the protagonists is like.
 
@@ -439,7 +439,7 @@ The default number of issues in a Fate game is two: Either two current issues (f
 
 <hr>
 
-> ## <strong>CHANGING THE NUMBER OF ISSUES</strong>
+> ## CHANGING THE NUMBER OF ISSUES
 
 > Of course, you don’t have to use the default number of two issues if you don’t want to—one or three also works, but it will change the resulting game a bit. A game with one issue will revolve around just that issue—a quest to rid a city of evil, or to stop evil from happening. A game with three will show off a busy world, one where the characters’ resources are strained against multiple fronts. If you think you need to focus down or expand the scope of your game, talk it over with the group and start by tweaking the number of issues to best fit what you’re after.
 <hr>
@@ -460,7 +460,7 @@ As we said earlier, issues are aspects. Turn the ideas you have into aspects tha
 If you’re new to making aspects, hold off on this for now. You’ll get quite a bit of practice making aspects for your characters. Once you’re done with character creation, turn these issue ideas into aspects.<br>
 <hr>
 
-> ## <strong>CHANGING ISSUES IN PLAY</strong>
+> ## CHANGING ISSUES IN PLAY
 
 > <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#THE-LONG-GAME"><em>The Long Game</em></a> chapter will talk about this in detail, but issues can change as the game progresses. Sometimes, the issue evolves into something new. Sometimes, the characters will successfully fight against it, and it’ll be gone. And sometimes, new issues will emerge. So the ones you make are just what you’re starting off with.
 <hr>
@@ -517,7 +517,7 @@ When you’re making characters, you’ll also discover a bit more about the set
 
 <hr>
 
-> ## <strong>SKILLS AND YOUR SETTING</strong>
+> ## SKILLS AND YOUR SETTING
 
 > A big part of your setting is what people can do in it. The various skills in <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#skills-and-stunts"><em>Skills and Stunts</em></a> cover many situations, but you’ll want to look over them to see if any don’t apply or if there’s a skill you need to add.
 
@@ -546,7 +546,7 @@ Start by determining your <a href="http://www.faterpg.com/wp-content/uploads/201
 
 <hr>
 
-> ## <strong>WHEN CREATING YOUR CHARACTER:</strong>
+> ## WHEN CREATING YOUR CHARACTER:
 
 - <strong>Aspects:</strong> Come up with your character’s high concept and trouble aspects.
 
@@ -578,7 +578,7 @@ Player characters should be exceptional and interesting. They could very easily 
 
 <hr>
 
-> ## <strong>KEEP BUILDING YOUR SETTING</strong>
+> ## KEEP BUILDING YOUR SETTING
 
 > As you’re making stuff up for your characters, you’ll also make stuff up about the world around them. You’ll end up talking about NPCs, organizations, places, things like that. That’s fantastic!
 
@@ -591,7 +591,7 @@ That said, don’t worry too much—if your character idea evolves later on, tha
 
 <hr>
 
-> ## <strong>DIALS, DIALS EVERYWHERE</strong>
+> ## DIALS, DIALS EVERYWHERE
 
 > Fate Core isn’t the be-all and end-all of Fate. It’s just a starting point—a set of default decisions that will work if you use it as-is.
 
@@ -617,7 +617,7 @@ Think of this <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Co
 These aren’t the only ways to play with your high concept, but they’ll get you started. But don’t stress out over it—the worst thing you can do is make it into too big of a deal. You’ll come up with four other aspects after this one—you don’t have to get it all nailed right now.
 <hr>
 
-> ## <strong>IF YOU GET STUMPED ON ASPECTS</strong>
+> ## IF YOU GET STUMPED ON ASPECTS
 
 > The golden rule of making aspects in character creation: <em>you can always change it later</em>. If you’re struggling to make an aspect, write out the idea in as many words as you need to, in order to get it down on paper in the first place. If a specific phrase pops up after you write it down, great! If not, maybe someone else at the table can help you come up with an aspect. And if you’re still stuck, leave it for now—you’ll have plenty of time during play to refine it.
 
@@ -662,7 +662,7 @@ Before you go any further, talk with the GM about your character’s trouble. Ma
 <p class="Example-end">After seeing the other two go for personal struggles, Ryan wants to add a bit to the setting by having a problematic relationship trouble. He wants something that’s involved with his high concept, someone he can’t just fight openly against—he wants to see intrigue in his story. So he writes down<span class="aspect">Rivals in the Collegia Arcana</span> (which also names a group of people in the setting, that Ryan’s character is a part of).
 <hr>
 
-> ## <strong>THE “BRIGHT” SIDE OF TROUBLES</strong>
+> ## THE “BRIGHT” SIDE OF TROUBLES
 
 > Since your trouble is an aspect, it’s something you should also be able to <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-36">invoke</a>, right? Because we’ve been so focused on how this complicates your character’s life, it’s easy to miss how a trouble also helps your character.
 
@@ -675,7 +675,7 @@ Before you go any further, talk with the GM about your character’s trouble. Ma
 > Ryan’s <span class="Aspect-sidebar">Rivals in the Collegia Arcana</span> can come in handy when dealing with rivals he knows well—he knows what to expect from their tactics. He could also use this aspect to gain aid from people who share his rivals.
 <hr>
 
-> ## <strong>INTRO TO CHOOSING ASPECTS</strong>
+> ## INTRO TO CHOOSING ASPECTS
 
 > A lot of character creation focuses on coming up with aspects—some are called high concepts, some are called troubles, but they basically all work the same way. Aspects are one of the most important parts of your character, since they define who she is, and they provide ways for you to generate fate points and to spend those fate points on bonuses. If you have time, you really might want to read the whole chapter we have dedicated to aspects before you go through the process of character creation.
 
@@ -724,7 +724,7 @@ This is an opportunity to tell a story about your characters. Each phase will as
 
 <hr>
 
-> ## <strong>INTRO TO CHOOSING ASPECTS</strong>
+> ## INTRO TO CHOOSING ASPECTS
 
 > A lot of character creation focuses on coming up with aspects—some are called high concepts, some are called troubles, but they basically all work the same way. Aspects are one of the most important parts of your character, since they define who she is, and they provide ways for you to generate fate points and to spend those fate points on bonuses. If you have time, you really might want to read the whole chapter we have dedicated to aspects before you go through the process of character creation.
 
@@ -785,7 +785,7 @@ Once you’ve come up with the adventure, write an aspect that relates to some p
 <p class="Example-end">Now Lenny has to write down an aspect related to this story. He decides to take <span class="aspect">I Owe Old Finn Everything</span> as his aspect, because he wants to keep the connection to Finn in his story and give Amanda a cool NPC to play.
 <hr>
 
-> ## <strong><span>PHASES AND </span><span>INDEX CARDS</span></strong><br>
+> ## <span>PHASES AND </span><span>INDEX CARDS</span><br>
 
 > In phase one, you each came up with your own adventure. In phases two and three, you’re going to trade those stories around as other players’ characters get involved. Figuring out how your character fits into someone else’s story can be hard to do if you’ve handed your character phase worksheet to another player, so we recommend that you use index cards (or whatever scraps of paper you have).
 
@@ -849,7 +849,7 @@ Once everyone’s done with phase two, you’ll trade adventures with whatever m
 And with that, you have your five aspects and a good chunk of background!
 <hr>
 
-> ## <strong>FEWER THAN THREE PLAYERS?</strong>
+> ## FEWER THAN THREE PLAYERS?
 
 > The phase trio assumes that you’ll have at least three players. If you have only two, consider the following ideas:
 
@@ -899,7 +899,7 @@ Your skills form a pyramid, with a single skill rated at Great (+4)—which we�
 
 <hr>
 
-> ## <strong>THE SKILL CAP</strong>
+> ## THE SKILL CAP
 
 > By default, we make Great (+4) the highest rated skill PCs start with. As characters advance, they can improve beyond this cap, but it’s more difficult than improving skills rated below the cap (see <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-55">Major Milestones</a>).
 
@@ -1287,7 +1287,7 @@ In order to invoke an aspect, explain why the aspect is relevant, spend a <a hre
 
 <hr>
 
-> ## <strong>THE REROLL VS. THE +2</strong>
+> ## THE REROLL VS. THE +2
 
 > Rerolling the dice is a little riskier than just getting the +2 bonus, but has the potential for greater benefit. We recommend you reserve this option for when you’ve rolled a –3 or a –4 on the dice, to maximize the chance that you’ll get a beneficial result from rerolling. The odds are better that way.
 <hr>
@@ -1315,7 +1315,7 @@ If you want to see more examples of invoking an aspect, we’ve scattered them t
 If the aspect you invoke is on someone else’s character sheet, including situation aspects attached to them, you give them the fate point you spent. They don’t actually get to use it until after the end of the scene, though.
 <hr>
 
-> ## <strong>THE ELLIPSIS TRICK</strong>
+> ## THE ELLIPSIS TRICK
 
 > If you want an easy way to ensure you have room to incorporate aspects into a roll, try narrating your action with an ellipsis at the end (“...”), and then finish the action with the aspect you want to invoke. Like this:
 
@@ -1539,7 +1539,7 @@ You get additional refresh as your character achieves a <a href="http://www.fate
 You might end a session of play with more fate points than your actual refresh. If that happens, you don’t lose the additional points when you start the next session, but you don’t gain any either. At the start of a new scenario, you reset your fate points to your refresh rate no matter what.
 <hr>
 
-> ## <strong>STUNTS AND REFRESH</strong>
+> ## STUNTS AND REFRESH
 
  - Three Stunts = Refresh of 3
 
@@ -1776,7 +1776,7 @@ For the best results, use both—have the stunt restricted to a specific action,
 You can also restrict a stunt by only allowing it to be used once in a certain period of game time, such as once per conflict, once per scene, or once per session.
  <hr>
 
- > ## <strong>FATE POINT-POWERED STUNTS</strong>
+ > ## FATE POINT-POWERED STUNTS
 
  > Another way to restrict how often a stunt comes into play is to have it cost a fate point to use. This is a good option if the desired stunt effect is very powerful, or there doesn’t seem to be a good way for you to change the wording of the stunt to make it come up less often in play.
 
@@ -2320,7 +2320,7 @@ Each skill description contains a list of game actions that you can use the skil
  </table>
  <hr>
 
- > ## <strong>CREATING SETTING WITH SKILLS</strong>
+ > ## CREATING SETTING WITH SKILLS
 
  > Skills are one of your primary mechanical ways to reinforce the setting you’re using or creating for your game. The skills provided in this list are deliberately generic so that they can be used in a variety of settings, and the stunts provided continue this trend by not being tied to any particular setting.
 
@@ -2512,7 +2512,7 @@ Deceive is the skill about lying to and misdirecting people.
  
  <hr>
 
- > ## <strong>SOCIAL SKILLS AND OTHER CHARACTERS</strong>
+ > ## SOCIAL SKILLS AND OTHER CHARACTERS
 
  > Many of the social skills have actions that let you change the emotional state of another character or make them accept some fact in the story (like believing one of your lies).
 
@@ -2535,7 +2535,7 @@ Like <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC
 For example, a low-tech setting (like <em>Hearts of Steel</em>) might have Ride instead of Drive, because the main transportation is animal-based. A futuristic setting revolving around people in a space opera military might have Drive (for cars), Pilot (for starships), and Operate (for tanks or heavy military vehicles).
  <hr>
 
- > ## <strong>DIFFERENT VEHICLES, DIFFERENT SKILLS</strong>
+ > ## DIFFERENT VEHICLES, DIFFERENT SKILLS
 
  > The advice is the same as for Crafts—don’t go nuts with reskinning this skill unless it makes a real, tangible difference in your game. Especially consider the option of having one skill that’s modified by stunts (see <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-76">Building Stunts</a>).
  <hr>
@@ -2642,7 +2642,7 @@ The Fight skill covers all forms of close-quarters combat (in other words, withi
  
  <hr>
 
- > ## <strong>THE ART(S) OF FIGHTING</strong>
+ > ## THE ART(S) OF FIGHTING
 
  > It’s a given that most games that you play with Fate will feature a decent amount of action and physical conflict. This is another area of emphasis, like with the Crafts skill, where the skills you choose to have for combat speak volumes on what your game’s about.
 
@@ -2876,7 +2876,7 @@ This skill is in the default list to give you a basic, easy way to handle wealth
  
  <hr>
 
- > ## <strong>LIMITING RESOURCES</strong>
+ > ## LIMITING RESOURCES
 
  > If someone is using the Resources skill a bit too often, or you just want to represent how continually tapping into your source of wealth provides diminishing returns, you can try one of the following ideas:
 
@@ -3339,7 +3339,7 @@ Because you roll to defend as a reaction, your opposition is almost always activ
  
  <hr>
 
- > ## <strong>CAN I DEFEND AGAINST OVERCOME ACTIONS?</strong>
+ > ## CAN I DEFEND AGAINST OVERCOME ACTIONS?
 
  > Technically, no. The defend action is there to stop you from taking stress, consequences, or situation aspects—basically, to protect you against all the bad stuff we represent with mechanics.
 
@@ -3347,7 +3347,7 @@ Because you roll to defend as a reaction, your opposition is almost always activ
  <hr>
 
  > ## 
- > ## <strong>NO STACKED EFFECTS!</strong>
+ > ## NO STACKED EFFECTS!
 
  > You’ll notice that the defend action has outcomes that mirror some of the outcomes in attack and create an advantage. For example, it says that when you tie a defense, you grant your opponent a boost. Under attack, it says that when you tie, you receive a boost.
 
@@ -3645,7 +3645,7 @@ Good options for situation aspects include:
  
  <hr>
 
- > ## <strong>SITUATION ASPECTS AND ZONES IN MENTAL CONFLICTS</strong>
+ > ## SITUATION ASPECTS AND ZONES IN MENTAL CONFLICTS
 
  > In a mental conflict, it might not always make sense to use situation aspects and zones to describe a physical space. It’d make sense in an interrogation, for example, where the physical features of the space create fear, but not in a really violent argument with a loved one. Also, when people are trying to hurt each other emotionally, usually they’re using their target’s own weaknesses against them—in other words, their own aspects.
 
@@ -3875,7 +3875,7 @@ Moderate consequences represent fairly serious impairments that require dedicate
 Severe consequences go straight to the emergency room (or whatever the equivalent is in your game)—they’re extremely nasty and prevent you from doing a lot of things, and will lay you out for a while. On the mental side, they express things like serious trauma or relationship-changing harm. Examples: <span class="aspect">Second-Degree Burn</span>, <span class="aspect">Compound Fracture</span>, <span class="aspect">Guts Hanging Out</span>, <span class="aspect">Crippling Shame</span>, <span class="aspect">Trauma-Induced Phobia</span>.
  <hr>
 
- > ## <strong>WHAT SKILL DO I USE FOR RECOVERY?</strong>
+ > ## WHAT SKILL DO I USE FOR RECOVERY?
 
  > In <em>Hearts of Steel</em>, physical recovery can only happen through the use of a Lore stunt, which Zird the Arcane has taken. This makes physical fights dangerous and suggests that actual medical training is quite rare. For mental recovery, we use the Empathy skill.
 
@@ -3923,7 +3923,7 @@ Then, you just have to wait the time.
  <p class="Example-end">This allows Cynere’s <span class="aspect">Nearly Gutted</span> aspect to be renamed <span class="aspect">Bandaged</span> and start the recovery process. After the next whole scenario, she’ll be able to erase that aspect from her sheet and use her severe consequence again in a subsequent conflict.
  <hr>
 
- > ## <strong>POTIONS AND OTHER INSTA-HEALING</strong>
+ > ## POTIONS AND OTHER INSTA-HEALING
 
  > Many genres have some sort of mechanism by which characters can quickly recover from injuries. Fantasy settings have the ubiquitous healing potion or spell. Sci-fi has superscience dermal regenerators or biogel. Usually, these mechanisms exists because many games express injuries in terms of a constant numerical penalty that drastically affects a character’s effectiveness.
 
@@ -4050,7 +4050,7 @@ Remember that aspects you create as advantages follow all the rules for <a href=
 When you create an advantage in a conflict, think about how long you want that aspect to stick around and whom you want to have access to it. It’s difficult for anyone besides you and your friends to justify using an advantage you stick to a character, but it’s also easier to justify getting rid of it—one overcome action could undo it. It’s harder to justify getting rid of an aspect on the environment (seriously, who is going to move that <span class="aspect">Huge Bookcase</span> you just knocked over?), but anyone in the scene could potentially find a reason to take advantage of it.
  <hr>
 
- > ## <strong>COVER FIRE AND OTHER IMPOSITIONS</strong>
+ > ## COVER FIRE AND OTHER IMPOSITIONS
 
  > When you’re trying to prevent someone else from getting attacked, the main way to do it is by creating an advantage. You can pass your buddy the invocation and make it harder to hit them.
 
@@ -4085,7 +4085,7 @@ As stated above, you may find yourself in a situation where you want to do somet
 In order to do this, GMs, set the player up with a modified form of challenge. One of the tasks is likely “defend yourself”—in any exchange where someone attacks you or tries to create an advantage on you, you must defend successfully in order to be able to take one of the other actions in the challenge. So long as no one has successfully attacked you or stuck an advantage on you, you can use your action to roll for one of the challenge goals.
  <hr>
 
- > ## <strong>FREE ACTIONS</strong>
+ > ## FREE ACTIONS
 
  > Sometimes it just makes sense that your character is doing something else in conjunction with or as a step toward their action in an exchange. You quick-draw a weapon before you use it, you shout a warning before you kick in a door, or you quickly size up a room before you attack. These little bits of action are colorful description more than anything else, meant to add atmosphere to the scene.
 
@@ -4197,7 +4197,7 @@ The players will sometimes help you with this, if they’re keen on getting to t
 We have more advice on starting and ending scenes in the next chapter, <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#SCENES-SESSIONS-AND-SCENARIOS"><em>Scenes, Sessions, and Scenarios</em></a>.
   <hr>
 
-  > ## <strong>DRAMA IS BETTER THAN REALISM</strong>
+  > ## DRAMA IS BETTER THAN REALISM
 
   > In Fate, don’t get too bogged down trying to maintain absolute consistency in the world or adhere to a draconian sense of realism. The game operates by the rules of drama and fiction; use that to your advantage. There should be very few moments in the game where the PCs are free of conflicts or problems to deal with, even if it’d be more “realistic” for them to get a long breather.
 
@@ -4248,7 +4248,7 @@ You also judge the appropriateness of any invocations or compels that come up du
 We provide some more tips on <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-95">judging the use of rules</a> below.
   <hr>
 
-  > ## <strong>YOU’RE THE CHAIRMAN, NOT GOD</strong>
+  > ## YOU’RE THE CHAIRMAN, NOT GOD
 
   > Approach your position as arbiter of the rules by thinking of yourself as “first among equals” in a committee, rather than as an absolute authority. If there’s a disagreement on the use of the rules, try encouraging a brief discussion and let everyone talk freely, rather than making a unilateral decision. A lot of times, you’ll find that the group is self-policing—if someone tries to throw out a compel that’s a real stretch, it’s just as likely that another player will bring it up before you do.
 
@@ -4344,7 +4344,7 @@ Most of the time, the very definition of an action makes this easy—any time yo
 But sometimes, you’re going to get into situations where it’s not immediately clear what type of action is the most appropriate. As a GM, don’t respond to these situations by forbidding the action. Instead, try to nail down a specific intent, in order to point more clearly to one (or more) of the basic game actions.
   <hr>
 
-  > ## <strong>THE SILVER RULE</strong>
+  > ## THE SILVER RULE
 
   > The corollary to the Golden Rule is as follows: <strong>Never let the rules get in the way of what makes narrative sense</strong>. If you or the players narrate something in the game and it makes sense to apply a certain rule outside of the normal circumstances where you would do so, go ahead and do it.
 
@@ -4399,7 +4399,7 @@ The worst, <em>worst</em> thing you can do is have a failed roll that means <em>
 If you can’t imagine an interesting outcome from both results, then don’t call for that roll. If failure is the uninteresting option, just give the PCs what they want and call for a roll later, when you <em>can</em> think of an interesting failure. If success is the boring option, then see if you can turn your idea for failure into a compel instead, using that moment as an opportunity to funnel fate points to the players.
   <hr>
 
-  > ## <strong>SITUATION ASPECTS ARE YOUR FRIEND</strong>
+  > ## SITUATION ASPECTS ARE YOUR FRIEND
 
   > When you’re trying to figure out if there’s a good reason to ask the PCs to make an overcome roll, look at the aspects on your scene. If the existence of the aspect suggests some trouble or problem for the PC, call for an overcome roll. If not, and you can’t think of an interesting consequence for failure, don’t bother.
 
@@ -4591,7 +4591,7 @@ Likewise, reward extreme success by reducing the amount of time it takes to do s
 If time is a factor, you should also be able to use invocations and compels to manipulate time, to make things easier or more complicated respectively. (“Hey, I’m a <span class="aspect">Garage Bunny</span>, so fixing this car shouldn’t take me that long, right?” “Oh, you know what? Your sheet says <span class="aspect">I Can’t Get Enough of the Fun and Games</span>… doesn’t it make sense that if you’re looking for a guy in a casino, it’d be easy to get caught up in distractions? All those machines and stuff…”)
   <hr>
 
-  > ## <strong>HOW MUCH TIME IS A SHIFT WORTH?</strong>
+  > ## HOW MUCH TIME IS A SHIFT WORTH?
 
   > Just like with any other roll, the number of shifts you get (or the amount you fail by) should serve as a barometer for just how severe the time jump is. So, how do you decide just how much to award or penalize?
 
@@ -4802,7 +4802,7 @@ Things get more complicated when you want to filter specific targets, rather tha
 Attacking a whole zone or everyone in a scene is something you’re going to have to judge by circumstance, like any other stretch <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-95">use of a skill</a>. Depending on the circumstances of your setting, this might be a totally normal thing to do (for example, because everyone uses grenades and explosives), it might be impossible, or it might require a stunt. As long as you can justify it, you don’t need to apply any special rules—you roll for the attack, and everyone in the zone defends as normal. Depending on the circumstances, you may even have to defend against your own roll, if you’re in the same zone as the attack!
   <hr>
 
-  > ## <strong>COMPELS AND MULTIPLE TARGETS</strong>
+  > ## COMPELS AND MULTIPLE TARGETS
 
   > Just a quick note: players who want to compel their way out of a conflict don’t get a free lunch on affecting multiple targets, whether it’s one aspect or several that justify the compel. A player must spend one fate point for each target they wish to compel. One fate point compels one individual, period.
   <hr>
@@ -5213,7 +5213,7 @@ As mentioned in Running the Game, a scenario is a unit of game time usually last
   <p class="Normal2">Once the problem is resolved (or it can no longer be resolved), the scenario is over. The following session, you’ll start a new scenario, which can either relate directly to the previous scenario or present a whole new problem.
   <hr>
 
-  > ## <strong>CREATING A SCENARIO: STEP BY STEP</strong>
+  > ## CREATING A SCENARIO: STEP BY STEP
 
   
   - Find Problems
@@ -5242,7 +5242,7 @@ Creating a scenario begins with finding a problem for the PCs to deal with. A go
   <p class="Normal2">You can look at an aspect-related problem as a very large-scale kind of <a href="http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Core-SRD-CC.html#Anchor-89">event compel</a>. The setup is a little more work, but the structure is similar—having an aspect suggests or implies something problematic for the PC or multiple PCs, but unlike a compel, it’s something they can’t easily resolve or deal with in the moment.
   <hr>
 
-  > ## <strong>YOU DON’T ALWAYS HAVE TO DESTROY THE WORLD</strong>
+  > ## YOU DON’T ALWAYS HAVE TO DESTROY THE WORLD
 
   > As you will see from the examples, not all of our urgent, consequential problems necessarily involve the fate of the world or even a large portion of the setting. Interpersonal problems can have just as much of an impact on a group of PCs as stopping this week’s bad guy—winning someone’s respect or resolving an ongoing dispute between two characters can just as easily take the focus for a scenario as whatever grand scheme your badass villain is cooking up.
 
@@ -5304,7 +5304,7 @@ Problems you get from a game’s current and impending issues will be a little w
   
   <hr>
 
-  > ## <strong>PUT A FACE ON IT</strong>
+  > ## PUT A FACE ON IT
 
   > While not all of your scenario problems have to be directly caused by an NPC who serves as a “master villain” for the PCs to take down, it’s often easier if they are. At the very least, you should be able to point directly to an NPC who benefits a great deal from the scenario problem not going the way the PCs want it to go.
   <hr>
@@ -5369,7 +5369,7 @@ Two Character Aspects
   
   <hr>
 
-  > ## <strong>HOW MANY PROBLEMS DO I NEED?</strong>
+  > ## HOW MANY PROBLEMS DO I NEED?
 
   > For a single scenario, one or two is sufficient, trust us. You’ll see below that even one problem can create enough material for two or three sessions. Don’t feel like you have to engage every PC with every scenario—rotate the spotlight around a little so that they each get some spotlight time, and then throw in an issue-related scenario when you want to concentrate on the larger “plot” of the game.
   <hr>
@@ -5980,7 +5980,7 @@ Most of all, a major milestone should signal that lots of things in the world of
   <p class="Example-end">So we have Cynere with a new appetite for killing demons, Zird reaching a heretofore unseen level of power, and Landon questioning his loyalty to his only real source of discipline. Amanda makes a lot of notes about what this means for the next few scenarios.
   <hr>
 
-  > ## <strong>BACK TO CHARACTER CREATION</strong>
+  > ## BACK TO CHARACTER CREATION
 
   > One way of looking at a major milestone is that it’s the equivalent of a season finale in a television show. Once you start the next session, a lot of things have the potential to be fundamentally different about your game—you might be focused on new problems, several characters will have aspects changed, there will be new threats in the setting, and so on.
 
@@ -6420,7 +6420,7 @@ You don’t roll Notice or Investigate actions if the object of your search is h
 This also helps you stay hidden, because you can see when people are looking for you and where they are. +2 to Stealth to avoid detection.
   <hr>
 
-  > ## <strong>POWERS AND SCALING</strong>
+  > ## POWERS AND SCALING
 
   > As you can see, “balancing” powers in Fate is more a matter of art than science. There are some rough equivalencies you can rely on, like 1 fate point = 1 invoke-equivalent or 1 stunt-equivalent, but when you get into writing rules exceptions like the one for X-Ray Vision, there’s no hard or fast rule for what’s too powerful. Everything is relative to your tastes, and Fate is hard to break.
 

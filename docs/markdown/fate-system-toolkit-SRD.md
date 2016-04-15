@@ -476,7 +476,7 @@ The character generation system in <em>Fate Core</em> presents a particular styl
 Anyone who’s played fantasy RPGs is at least passingly familiar with these ideas. For those who aren’t sure what we mean, a profession is a broad group of skills and abilities that follows from a particular character concept, often linked to what you <em>do</em> in the world. A race describes what you <em>ar</em><em>e</em>—where you come from, who your people are, and where your natural talents lie.
 <hr />
 
-> ## <strong>THE WORD “RACE”</strong>
+> ## THE WORD “RACE”
 
 > The term “race” is both inaccurate and problematic in this context. We’re not describing a race as modern people use the word; what we’re describing is more akin to a species. When you’re making a race in <em>Fate</em>, what you’re really doing is making rules for a type of being other than human, not a nationality or ethnicity.
 
