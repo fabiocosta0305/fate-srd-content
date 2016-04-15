@@ -191,8 +191,40 @@
       'source/fate-system-toolkit-SRD.html'
       ])
 
-      // Remove style
+      // Remove styles
       .pipe(replace(/(style)=\"(.*?)\"/g, ''))
+      .pipe(replace(/(id)=\"(.*?)\"/g, ''))
+      .pipe(replace(/char-style-override-\d*/g, ''))
+      .pipe(replace('class="Normal"', ''))
+      .pipe(replace('class="Normal-First"', ''))
+      .pipe(replace(/ para-style-override-\d/g, ''))
+
+      // Remove extra spaces caused from removing classes and ids
+      .pipe(replace(/\s*>/g, '>'))
+      .pipe(replace(/ "/g, '"'))
+
+      // Convert &nbsp;
+      .pipe(replace('&nbsp;',' '))
+
+      // Convert
+      .pipe(replace(/<span class="Emphasis">((.|\n)*?)<\/span>/gi,'<em>$1<\/em>'))
+      .pipe(replace(/<span class="Term">((.|\n)*?)<\/span>/gi,'$1'))
+      .pipe(replace(/<span class="Strong">((.|\n)*?)<\/span>/gi,'<strong>$1</strong>'))
+      .pipe(replace(/<span class="Book-Title">((.|\n)*?)<\/span>/gi,'<em>$1</em>'))
+      .pipe(replace(/<span class="Chapter">((.|\n)*?)<\/span>/gi,'$1'))
+      .pipe(replace(/<\s*li[^>]*>(.*?)<\s*\/\s*li>/g, '- $1'))
+      .pipe(replace(/<i>/g, '<em>'))
+      .pipe(replace(/<\/i>/g, '</em>'))
+      .pipe(replace(/<b>/g, '<strong>'))
+      .pipe(replace(/<\/b>/g, '</strong>'))
+      .pipe(replace(/class="Aspect"/gi, 'class="aspect"'))
+      .pipe(replace(/<p class="Example">/g, '> '))
+      .pipe(replace(/<p class="Sidebar-Header">/gi, '> ## '))
+      .pipe(replace(/<p class="Sidebar-Body-First">/gi, '> '))
+      .pipe(replace(/<p class="Sidebar-Body">/gi, '> '))
+      .pipe(replace(/<li>/gi, '- '))
+      .pipe(replace(/<\/strong>\n/g, '</strong> '))
+
 
       // .pipe(replace(/<span class="Strong">((.|\n)*?)<\/span>/gi,'<strong>$1<\/strong>'))
       // .pipe(replace(/<span class="Term char-style-override-\d*" style=\"(.*?)\">((.|\n)*?)<\/span>/gi,'<strong class="convert">$2</strong>'))
@@ -203,14 +235,12 @@
       // .pipe(replace(/(id|style)=\"(.*?)\"/g, ''))
       // .pipe(replace(/(class)=\"(.*?)\"/g, ''))
       
-      // // Remove extra spaces caused from removing classes and ids
-      // .pipe(replace(/\s*>/g,'>'))
+      
       
       // // Remove empty <span>
       // .pipe(replace(/<span>((.|\n)*?)<\/span>/gi,'$1'))
       
-      // // Convert &nbsp;
-      // .pipe(replace('&nbsp;',' '))
+      
       
       // // Remove anchors
       // .pipe(replace(/<a id="((.|\n|)*?)">((.|\n)*?)<\/a>/g,'$2'))
@@ -218,65 +248,75 @@
       // .pipe(replace(/<a href="#(.*)">((.|\n)*?)<\/a>/g,'$2'))
 
       // // Convert lists to markdown
-      // .pipe(replace(/<\s*li[^>]*>(.*?)<\s*\/\s*li>/g, '- $1'))
-
-      // .pipe(replace(/<h[123456]>/g, function(match, offset, string){
-      //   switch(match) {
-      //     case '<h1>':
-      //       return '# '
-      //       break;
-      //     case '<h2>':
-      //       return '## '
-      //       break;
-      //     case '<h3>':
-      //       return '### '
-      //       break;
-      //     case '<h4>':
-      //       return '#### '
-      //       break;
-      //     case '<h5>':
-      //       return '##### '
-      //       break;
-      //     case '<h6>':
-      //       return '###### '
-      //       break;
-      //     default:
-      //       console.log('Criteria not met')
-      //   }
-      // }))
-      // .pipe(replace(/<\/h[123456]>/g, function(match, offset, string){
-      //   switch(match) {
-      //     case '</h1>':
-      //     case '</h2>':
-      //     case '</h3>':
-      //     case '</h4>':
-      //     case '</h5>':
-      //     case '</h6>':
-      //       return ''
-      //     default:
-      //       console.log('Criteria not met')
-      //   }
-      // }))
-
       
-      
+
+      // Format headers
+      .pipe(replace(/ class="Heading-\d"/g, ''))
+      .pipe(replace(/<h[123456]>/g, function(match, offset, string){
+        switch(match) {
+          case '<h1>':
+            return '# '
+            break;
+          case '<h2>':
+            return '## '
+            break;
+          case '<h3>':
+            return '### '
+            break;
+          case '<h4>':
+            return '#### '
+            break;
+          case '<h5>':
+            return '##### '
+            break;
+          case '<h6>':
+            return '###### '
+            break;
+          default:
+            console.log('Criteria not met')
+        }
+      }))
+      .pipe(replace(/<\/h[123456]>/g, function(match, offset, string){
+        switch(match) {
+          case '</h1>':
+          case '</h2>':
+          case '</h3>':
+          case '</h4>':
+          case '</h5>':
+          case '</h6>':
+            return ''
+          default:
+            console.log('Criteria not met')
+        }
+      }))
+
       // // Remove elements
-      // .pipe(replace('<p>','\n'))
-      // .pipe(replace('</p>',''))
-      // .pipe(replace('<a></a>',''))
-      // .pipe(replace(/<div((.|\n)*?)>/gi,''))
-      // .pipe(replace('</div>',''))
-      // .pipe(replace('<ul>',''))
-      // .pipe(replace('</ul>',''))
-      // .pipe(replace('<br/>',''))
-      // .pipe(replace('<br />',''))
+      .pipe(replace('<p>','\n'))
+      .pipe(replace('</p>',''))
+      // .pipe(replace(/<a>/g, ''))
+      // .pipe(replace(/<\/a>/g, ''))
+      .pipe(replace('<a></a>',''))
+      .pipe(replace(/<div((.|\n)*?)>/gi,''))
+      .pipe(replace('</div>',''))
+      .pipe(replace('<ul>',''))
+      .pipe(replace('</ul>',''))
+      .pipe(replace('<br/>',''))
+      .pipe(replace('<br />',''))
+      .pipe(replace('<br class="Apple-interchange-newline" />',''))
+      .pipe(replace(/<a href="#Anchor-\d*">((.|\n)*?)<\/a>/g, '$1'))
+      .pipe(replace(/<span class="Become-Running-Footer-Text">((.|\n)*?)<\/span>/g, '$1'))
+      .pipe(replace('<span> </span>', ''))
+      .pipe(replace(/<p class="Inline-Header--ih-">/g, ''))
 
-      // // Remove extra space at the start of a line.
-      // .pipe(replace(/\t*/g, ''))
-      // .pipe(replace(/  +?/g, ' '))
-      // .pipe(replace(/  +?/g, ' '))
-      // .pipe(replace(/  +?/g, ' '))
-      // .pipe(replace(/\n /g,'\n'))
+      
+
+      // Remove extra space at the start of a line.
+      .pipe(replace(/\t*/g, ''))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/  +?/g, ' '))
+      .pipe(replace(/\n /g, '\n'))
+      .pipe(replace(/# \n/g, '# '))
 
       // // // Add aspect class
       // // .pipe(replace(/<aspect>((.|\n)*?)<\/aspect>/gi,'<span class="aspect">$1<\/span>'))
@@ -284,13 +324,13 @@
       // // // Fix blockquotes
       // // .pipe(replace('block> ','> '))
     
-      // // Clean up newlines
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
-      // .pipe(replace(/\n\n\n/g, '\n\n'))
+      // Clean up newlines
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
+      .pipe(replace(/\n\n\n/g, '\n\n'))
 
       // Put output in markdown folder
       .pipe(dest('docs/markdown', {ext: '.md'}))
