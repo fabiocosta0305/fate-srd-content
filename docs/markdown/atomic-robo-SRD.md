@@ -198,7 +198,7 @@ and your standard B&amp;E all fall under Intrigue.
 
 <strong>Science:</strong> All fields of scientific endeavor, whether you’re hacking a mainframe, accelerating particles, or rebuilding a transmission on a ’69 Charger. If you’re pitting your brain against an inanimate object, you’re probably doing Science.
 
-- <strong>Skills:</strong> Notice, Will, all sciences. (See <em>Science: It’s Special</em> on page <markup>XX</markup> for more detail on the Science mode.)
+- <strong>Skills:</strong> Notice, Will, all sciences. (See <em>Science: It’s Special</em> on page XX for more detail on the Science mode.)
 
 Even with just four modes, the player’ choices of ratings allow for plenty of variety—and that’s not even accounting for skills and stunts, which offer even more differentiation between PCs.
 
@@ -600,7 +600,7 @@ Get a 2-shift bonus to a successful attack or a 1-shift bonus to defend.
 
 <strong>Benefit:</strong> Gain Weapon:2 or Armor:1 due to some inherent quality.
 
-Normally, a Weapon or Armor rating is the result of special equipment, like from the Personal Hardware stunt (page <markup>XX</markup>). This benefit, however, is for characters who hit harder or are more resistant to damage simply because of their very nature.
+Normally, a Weapon or Armor rating is the result of special equipment, like from the Personal Hardware stunt (page XX). This benefit, however, is for characters who hit harder or are more resistant to damage simply because of their very nature.
 
 If you choose a Weapon rating, specify the circumstances under which it applies, such as “when using strength” or “with eyebeams.” If you choose an Armor rating, specify physical or mental harm.
 
@@ -719,7 +719,7 @@ Make a note of the roll’s outcome, whether it’s failure, a tie, a success, o
 
 #### Teamwork
 
-Multiple PCs can work together to create the invention, using the usual teamwork rules (page <markup>XX</markup>), but with one variation. Each additional participating PC adds a +1 bonus to the roll only if they’re bringing a <em>different</em> relevant skill to the task. In practical terms, this means there’s one acknowledged “expert” who takes the lead, and others with expertise in related fields who lend a hand.
+Multiple PCs can work together to create the invention, using the usual teamwork rules (page XX), but with one variation. Each additional participating PC adds a +1 bonus to the roll only if they’re bringing a <em>different</em> relevant skill to the task. In practical terms, this means there’s one acknowledged “expert” who takes the lead, and others with expertise in related fields who lend a hand.
 
 ### Step Four: Pay For It
 
@@ -867,7 +867,7 @@ In the <em>long</em> term, at the end of the session, go over the catches that h
 
 #### Adding to the GM’s Reserve
 
-The other payment for the invention is an increase in the GM’s fate point reserve. Add fate points to the GM’s reserve equal to invention’s <em>quality</em>. This is equal to the number of the invention’s stunt benefits <em>minus</em> the number of Bugs. These fate points come from the fate point slush fund, not from the players. See <em>The GM’s Reserve</em> (page <markup>XX</markup>) for details on how the GM’s reserve works.
+The other payment for the invention is an increase in the GM’s fate point reserve. Add fate points to the GM’s reserve equal to invention’s <em>quality</em>. This is equal to the number of the invention’s stunt benefits <em>minus</em> the number of Bugs. These fate points come from the fate point slush fund, not from the players. See <em>The GM’s Reserve</em> (page XX) for details on how the GM’s reserve works.
 
 ### Step Five: Determine Its Flaw
 
