@@ -308,7 +308,7 @@
       .pipe(replace(/<span class="Become-Running-Footer-Text">((.|\n)*?)<\/span>/g, '$1'))
       .pipe(replace('<span> </span>', ''))
       .pipe(replace(/<p class="Inline-Header--ih-">/g, ''))
-
+      .pipe(replace(/<hr \/>/, ''))
       
 
       // Remove extra space at the start of a line.

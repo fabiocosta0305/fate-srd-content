@@ -97,8 +97,6 @@ When you invoke for effect, you’re spending a fate point—or a free invocatio
 
 Mechanically, an aspect effect should be worth the fate point you’re spending—the equivalent to two shifts’ worth of potency, just like any other effect of invoking an aspect. Aspect effects should <em>do</em> something, like in the examples above, rather than provide a static bonus. A regular aspect invocation already provides a bonus, so you don’t need a special effect that does that, too. An aspect effect is a bit like having an extra rules-exception stunt that you always have to pay for, both in terms of what the effect can accomplish and the amount of complexity it adds to your character.
 
-<hr />
-
 <strong>HOW MANY EFFECTS?</strong>
 
 Speaking of character complexity, gms need to decide how many of these effects each player character gets. the simplest way to use this rule is to allow each player to add a special effect to her high concept, since that’s the aspect that’s most likely to be big and character-defining. you can give pcs more aspect effects, but give them too many and it’s like having too many stunts—they’re not all going to get used and the volume of choices can lead to analysis paralysis.

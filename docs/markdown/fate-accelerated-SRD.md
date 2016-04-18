@@ -245,7 +245,6 @@ Your refresh is the number of fate points you begin each game session with—unl
 > However, if this is your first time playing a Fate game, you might find it easier to pick your first stunt after you’ve had a chance to play a bit, to give you an idea of what a good stunt might be. Just add your stunt during or after your first game session.
 
 > On the other hand, if you’re an experienced Fate gamer, you might look ahead and discover that, just like in <span class="Emphasis-Sidebar">Fate Core</span>, your character is entitled to three free stunts before it starts costing you refresh. In that case, let the least experienced member of your game group be your guide; if someone is new to the game and only takes one to start with, that’s what everyone should do. If you’re all experienced, and you want to start with more powerful characters, just take all three to start and off you go.
-<hr />
 
 # <a>How</a>To Do Stuff: Outcomes, Actions, and Approaches
 
