@@ -88,6 +88,21 @@
       .pipe(replace('<p class="Example-end">','\n block> '))
       .pipe(replace('<p class="Example-middle">','\n block> '))
       .pipe(replace('<p class="Example">','\n block> '))
+
+      // War of Ashes
+      // .pipe(replace(/[;](\n)/g,''))
+      .pipe(replace(/(font-size|margin-(top|right|bottom|left)):\d{0,9}.\d{0,9}pt;/g,''))
+      .pipe(replace(/margin-(top|right|bottom|left):(.\d{0,9}|\d{0,9})in;/g,''))
+      .pipe(replace(/text-indent:.\d{0,9}in;/g,''))
+      .pipe(replace('mso-pagination:none;',''))
+      .pipe(replace('mso-layout-grid-align:none;',''))
+      .pipe(replace('text-autospace:none',''))
+      .pipe(replace('font-variant:small-caps',''))
+      .pipe(replace(/style=\"\ntext-autospace:\nnone\"/g,''))
+      .pipe(replace(/style=\"\nmso-layout-grid-align:\nnone;\"/g,''))
+      .pipe(replace(/style=";\n"/g,''))
+
+
       // .pipe(replace(/<h([123456])>/gi,function(match){
       //   console.log('Match found ' + match)
       // }))
