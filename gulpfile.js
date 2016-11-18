@@ -100,7 +100,7 @@
       .pipe(replace('font-variant:small-caps',''))
       .pipe(replace(/style=\"\ntext-autospace:\nnone\"/g,''))
       .pipe(replace(/style=\"\nmso-layout-grid-align:\nnone;\"/g,''))
-      .pipe(replace(/style=";\n"/g,''))
+      // .pipe(replace(/style=";\n"/g,''))
 
 
       // .pipe(replace(/<h([123456])>/gi,function(match){
