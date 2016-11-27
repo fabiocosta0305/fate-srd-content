@@ -46,6 +46,15 @@ This section is for maintainers.
 - Run `gulp make-md` and check the created markdown file in `/docs/markdown`.
   - Revise `gulp make-md` as needed to fix the output.
 
+## Snowflakes
+
+Due to formatting, some of the source documents are unique snowflakes and have to be processed by hand. Currently that list is:
+
+- Fate Core (not done)
+- Fate Accelerated (not done)
+- Fate System Toolkit (not done)
+- War of Ashes
+
 # License
 
 This work is based on [Fate Core System](http://www.faterpg.com/) and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
