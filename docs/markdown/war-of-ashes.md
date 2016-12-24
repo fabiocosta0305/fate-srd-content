@@ -618,31 +618,18 @@ In order to cast a ritual, the priest must use one or more actions to overcome t
 
 Assuming a single target—a person, or a thing perhaps as large as a hut—enough time to chant or mumble the sacred words, and the appropriate ritual trappings, the roll is made against a difficulty of Average (+1). So long as the character succeeds, then the target gains the blessing or curse—see below for details—for the scene or until it is no longer dramatically appropriate, whichever comes first. Further modifications follow: 
 
-[table] TODO
-
-<strong>Target Difficulty</strong> 
-
-Base difficulty<em>(self, object, or other person within contact range)</em> Average (+1) 
-
-Object, area, or person is in sight but not touch range Add +1 
-
-Target person not present, but a powerful symbolic tie to them is present<em>(their blood, a treasured possession)</em> Add +2 
-
-Target person not present, but is known and named, or is a known location Add +3 
-
-Target is as big as a ship or small building Add +1 
-
-Target is as big as a large building or arena Add +2 
-
-Target is as big as a small town Add +3 
-
-Unforeseen difficulties<em>(performing the ritual in a rush, while underwater, at spear point)</em> Add +1 to +3<em>(GM's discretion)</em> 
-
-Praying to a god you have angered<em>(having unfavorable Divine Interest consequences or aspects)</em> Add +2 
-
-Unwilling target Add +1 
-
-[/table] 
+| Target | Difficulty
+|---- | ----
+| Base difficulty<em>(self, object, or other person within contact range)</em> | Average (+1) 
+| Object, area, or person is in sight but not touch range | Add +1 
+| Target person not present, but a powerful symbolic tie to them is present<em>(their blood, a treasured possession)</em> | Add +2 
+| Target person not present, but is known and named, or is a known location | Add +3 
+| Target is as big as a ship or small building | Add +1 
+| Target is as big as a large building or arena | Add +2 
+| Target is as big as a small town | Add +3 
+| Unforeseen difficulties<em>(performing the ritual in a rush, while underwater, at spear point)</em> | Add +1 to +3<em>(GM's discretion)</em> 
+| Praying to a god you have angered<em>(having unfavorable Divine Interest consequences or aspects)</em> | Add +2 
+| Unwilling target | Add +1 
 
 Larger targets require much more time, the efforts of several priests, and luck. 
 
@@ -1138,8 +1125,6 @@ If you want the adventure's aspects to strongly color the action, make them know
 
 ## Scene List: Ask Story Questions
 
-TODO
-
 Once you have your goal, work backwards to create the scene list&mdash;scenes are where players get to play; without them, you have no game. This is where you need to create a list of story questions. 
 
 How do you flesh out the situation which you created with the problems? You start by asking lots of story questions as yes/no questions, in the general format of: 
@@ -1151,6 +1136,8 @@ You don't have to follow that phrasing exactly, and you can embellish on the bas
 "Can the heroes resolve the adventure problem?" 
 
 All the other story questions will be the dotted line, the stepping stones leading to this one. Each can explore a specific facet of the problem, including who, what, where, when, why, and how. 
+
+<blockquote>
 
 <strong>The Mask of Betrayal: Problem and Story Questions</strong> 
 
@@ -1174,25 +1161,20 @@ All the other story questions will be the dotted line, the stepping stones leadi
 
 <em>Is Valius Nummus friend or traitor? To what ends does he wish to acquire the mask?</em> 
 
-<o:p></o:p> 
+</blockquote>
 
 <strong>Pro Tip: Multiple Solutions</strong> 
 
 When you're asking your story questions that will lead to scene ideas, try to think of several different ways of completing a segment and several different paths to get the end questions, the ones that are wrapped up in the problem. One way to do this is to ask,<em>How would a player or a group complete this if</em>: 
 
-They want to investigate their way through? 
-
-They want to fight their way through? 
-
-They want to negotiate their way through? 
-
-They want to sneak their way through? 
+- They want to investigate their way through? 
+- They want to fight their way through? 
+- They want to negotiate their way through? 
+- They want to sneak their way through? 
 
 Jot down your answers for later use. As a rule of thumb, if you can't think of at least two or three ways to get the job done, then your scenes or adventure may be too narrow. 
 
-<o:p></o:p> 
-
-<strong>Assembling the List</strong> 
+### Assembling the List
 
 What steps will the players need to take to achieve their goal? To bring a killer to justice, they might first have to discover his whereabouts, which requires discovering who he is, which may require questioning witnesses and following clues, which requires investigating the crime scene, which requires being alerted to the crime. 
 
@@ -1222,21 +1204,17 @@ You can mark some scenes as core and others as optional; you can also jot down n
 
 <strong>Who Gets the Mask?:</strong><em>Valius Nummus wants it, as do the Stone-Seekers and the Seal of Prolyus, and perhaps a secret cult dedicated to protecting or using the mask. Some of these factions may be covert allies.</em> 
 
-<o:p></o:p> 
-
 <strong>Important Note</strong>: 
 
 No plan survives contact with the PCs. If the scenes don't unfold in that particular order, that's perfectly normal. The PCs will manage to skip a scene through ingenuity, or make a scene irrelevant, or create a new scene by following some tangent they came up with. Go with it! You can always bring them back on track, or modify a previous scene on the fly to create the new scene. 
 
 In fact, it makes your life easier to plan on scenes that can be shuffled, combined, or removed so you can adjust them to fit the rhythm at which your game is unfolding. 
 
-<o:p></o:p> 
-
-<a name="Adventure_Aspects"><strong>Adventure Aspects</strong></a> 
+## Adventure Aspects
 
 Now you can come up with your adventure aspects. Write two for each scene: one for the location/setting, and one for the obstacle the PCs will face. You can write more, but include at least these two. If the PCs will face no obstacle, then there is no tension. The scene will be boring and you need to delete it from your list. Even searching an abandoned war camp for information is an obstacle,<em>Hidden Clues</em>. 
 
-<em>Kim thinks about who stole Valius Nummus' manuscript and how hard it should be to track them. She wants to bring in some physical confrontation early on and also point to the waterfront so Isaac, whose character Ulf is not directly tied to the Mask of Kuldarus, will not be left out.</em> 
+> <em>Kim thinks about who stole Valius Nummus' manuscript and how hard it should be to track them. She wants to bring in some physical confrontation early on and also point to the waterfront so Isaac, whose character Ulf is not directly tied to the Mask of Kuldarus, will not be left out.</em> 
 
 <strong>Recovering the Manuscript:</strong><em>Discovering the identity of the thieves and getting the manuscript back. Since the thieves used violence, there is probably going to be a physical confrontation.</em> 
 
@@ -1244,14 +1222,13 @@ Now you can come up with your adventure aspects. Write two for each scene: one f
 
 <em>Environmental Aspect:<strong>Dark Alleys Near the Waterfront</strong></em> 
 
-<a name="The_Opposition"><strong>The Opposition</strong></a> 
+## The Opposition
 
 <strong>Adventure Stats</strong> 
 
 Adventures use the following stats, which you can think of as its "skills" or "approaches": 
 
 <strong>Combat:</strong>This governs NPCs attacking, defending, and creating advantages using combative maneuvers. 
-
 <strong>Exploration:</strong>This sets the difficulty of (or opposes) PC attempts to interact with or move through the environment, whether that opposition comes from an NPC or another obstacle in the setting. This covers movement, investigating clues, discovering details, determining NPC initiative, allowing something to remain hidden from the PCs, etc. 
 
 <strong>Interaction:</strong>This is rolled to have the NPCs interact with the PCs. 
@@ -1260,21 +1237,21 @@ Adventures use the following stats, which you can think of as its "skills" or "a
 
 To set the adventure's stat ratings, set one of them at the same level as the PC's highest approach rating +1 (called Hard difficulty), then choose two to be at the same level as the PC's highest approach rating -1 (called Average difficulty) and one to be -3 lower (called Easy difficulty).  
 
-<em>For instance, if the PCs' highest approach score is Good (+3), then you'd have a set-up of +4, +2, +2, +0. If you have an experienced group of PCs that have raised their approaches to Great (+4), then you would have a spread of</em> 
+> <em>For instance, if the PCs' highest approach score is Good (+3), then you'd have a set-up of +4, +2, +2, +0. If you have an experienced group of PCs that have raised their approaches to Great (+4), then you would have a spread of</em> 
 
-<em>+5, +3, +3, +1.</em> 
+> <em>+5, +3, +3, +1.</em> 
 
 Choose the scores so that they highlight the important aspects you have in mind for the adventure. Do you want this adventure to be a tough fight with low social interaction? Have Combat be your Hard approach and Interaction be Easy. Do you want a game of intrigue with next to no fighting? Use Lore or Interaction as your Hard approaches and Combat as your Easy approach. 
 
 This is what you'll be rolling for every NPC or setting element that comes into play against the PCs. 
 
-<em>The campaign is just beginning and the PCs' top approach score is Good (+3), so Kim assigns +4, +2, +2, and +0 to the adventure approaches. She doesn't want to make it too difficult to find the mask, so she sets Exploration at Mediocre (+0), and she wants a lot of the questions left at the end to revolve around motives and factions, so she sets Interaction at Great (+4). Combat and Lore will thus be at Fair (+2).</em> 
+> <em>The campaign is just beginning and the PCs' top approach score is Good (+3), so Kim assigns +4, +2, +2, and +0 to the adventure approaches. She doesn't want to make it too difficult to find the mask, so she sets Exploration at Mediocre (+0), and she wants a lot of the questions left at the end to revolve around motives and factions, so she sets Interaction at Great (+4). Combat and Lore will thus be at Fair (+2).</em> 
 
 <strong>Divine Interest:</strong>Bear in mind that in order to beat a Hard adventure approach of +5, your group of heroes will have to roll high enough to routinely risk "catastrophic success," a roll of +9 or higher, which incurs Divine Interest. When you, the GM, select the Hard approach, you're essentially deciding what, in this adventure, most risks attracting the attention of the gods. 
 
 Conversely, when selecting the Easy adventure approach, you're nudging the flow of the story by offering a place where the adventurers will have an easier time succeeding. 
 
-<strong>Characters and Creatures</strong> 
+### Characters and Creatures
 
 The GM gets to play all the non-players characters or NPCs, be they support, allies, contacts, etc. But some of the most important will be those who present opposition for the PCs. You don't need to fill in a character sheet for every one of them; jot down only what matters. We have two main types of characters to track in the opposition: recurring adversaries and minions. 
 
@@ -1354,19 +1331,19 @@ Mobs typically have two to four stress boxes. When a mob takes enough stress to 
 
 Well, that's not the only thing they can increase: they can also increase their capacity to take harm. Small swarms typically have no stress boxes (meaning they are taken out by the first point of harm), big swarms have one stress box, and huge swarms have two or three. 
 
-<strong>Adding Opposition to the Adventure</strong> 
+### Adding Opposition to the Adventure
 
 Go through the list of obstacle aspects you assigned to each scene, and turn them into adversaries, minions, or at least adventure stunts (for example, for a violent storm). 
 
-<em>In this adventure, Kim knows she wants Laetitia Bibulus and Captain Volo Troll-Axe as antagonists during the race to get the mask.</em> 
+> <em>In this adventure, Kim knows she wants Laetitia Bibulus and Captain Volo Troll-Axe as antagonists during the race to get the mask.</em> 
 
-<em>She has also listed as "live" opponents the cheap hired brutes who are</em>Skilled (+2) at ganging up, scaring innocent people<em>, and</em>Bad (-2) at thinking ahead, fighting when outnumbered<em>; and a tentacled sea monster who is</em>Skilled (+2) at grabbing people off ships, sinking small boats<em>, and</em>Bad (-2) at everything else<em>. The tentacle monster has a weight of 4 and the special monster stunt</em>It's Everywhere<em>: No penalty for up to three attacks per turn.</em> 
+> <em>She has also listed as "live" opponents the cheap hired brutes who are</em>Skilled (+2) at ganging up, scaring innocent people<em>, and</em>Bad (-2) at thinking ahead, fighting when outnumbered<em>; and a tentacled sea monster who is</em>Skilled (+2) at grabbing people off ships, sinking small boats<em>, and</em>Bad (-2) at everything else<em>. The tentacle monster has a weight of 4 and the special monster stunt</em>It's Everywhere<em>: No penalty for up to three attacks per turn.</em> 
 
-<em>There is also a school of nasty carnivorous little fish that can attack anyone who falls overboard at sea; Kim treats them as a medium swarm, giving them a weight of 2 and one stress box. She decides they are</em>Skilled (+2) at swimming and biting<em>and</em>Bad (-2) at avoiding attacks from above<em>.</em> 
+> <em>There is also a school of nasty carnivorous little fish that can attack anyone who falls overboard at sea; Kim treats them as a medium swarm, giving them a weight of 2 and one stress box. She decides they are</em>Skilled (+2) at swimming and biting<em>and</em>Bad (-2) at avoiding attacks from above<em>.</em> 
 
-<em>Finally, she wants the environment of the Forbidden Temple and its surroundings to be very hostile, so she stats it like an antagonist and she gives it the stunt</em>Skilled (+2) at creating physical danger advantages using Exploration and Hiding its Secrets<em>and</em>Bad (-2) at avoiding attention from explorers<em>.</em> 
+> <em>Finally, she wants the environment of the Forbidden Temple and its surroundings to be very hostile, so she stats it like an antagonist and she gives it the stunt</em>Skilled (+2) at creating physical danger advantages using Exploration and Hiding its Secrets<em>and</em>Bad (-2) at avoiding attention from explorers<em>.</em> 
 
-<strong>Setting Difficulties</strong> 
+### Setting Difficulties 
 
 When another character is opposing a PC, their rolls provide the opposition in a conflict, contest, or challenge. But if there's no active opposition, you have to decide how hard the task is. 
 
@@ -1392,9 +1369,7 @@ In tense situations, any obstacle's difficulty can be set at two higher than the
 
 For example, there should be different difficulties, costs, and repercussions depending on whether the PCs decide to Forcefully break down a door, Sneakily pick the lock, or Cleverly come up with a legitimate excuse to be let in. 
 
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
-
-<a name="Set_the_First_Scene"><strong>Set the First Scene</strong></a> 
+## Set the First Scene
 
 You've got the problem, the scenes, and the opposition. All you need now is to open with a strong scene that will make the players want to jump in and act. You want to create a strong opening situation that ties to the problem, and some good antagonist characters with agendas. The players' interactions with these will create the fiction. 
 
@@ -1402,9 +1377,11 @@ Pick a book from your shelf of favorites that has a really good opening, say wit
 
 Now adapt these concepts to your adventure as needed. Look at your story questions and pick one which you think will get the players' attention immediately. If you don't see one in the list, it's time to ask more questions! Whatever question you ask in the opening must make the players want to answer. 
 
-Note that<strong><em>you don't actually have to start at the beginning</em></strong>. Sometimes it's good to open with a short prologue, a flashback, even a flash forward that will be followed by "Ten days earlier�" in the next scene. All of these are good, but you have to articulate them clearly so the players can understand what you are doing. 
+Note that<strong><em>you don't actually have to start at the beginning</em></strong>. Sometimes it's good to open with a short prologue, a flashback, even a flash forward that will be followed by "Ten days earlier" in the next scene. All of these are good, but you have to articulate them clearly so the players can understand what you are doing. 
 
 Finally, remember that the game is about characters who are proactive, competent, and dramatic. Even if you start with a scene that puts the PCs on the defensive, don't describe them as being belittled or disempowered. 
+
+<blockquote>
 
 <strong>The Mask of Betrayal: Opening Scene</strong> 
 
@@ -1412,19 +1389,19 @@ Finally, remember that the game is about characters who are proactive, competent
 
 <em>She opens with Rustica making a routine visit to the establishment of Valius Nummus, purveyor of books, scrolls, fine writing implements, rare texts, and occasional antiques&mdash;and finding the merchant amidst the wreckage of his shop, getting his bleeding head bandaged. As a conversation with him will rapidly reveal, Valius' shop was broken into and ransacked during the wee hours of the night.</em> 
 
-<em>After shooing away his assistants, Valius confidentially tells Rustica that a manuscript he had recently acquired has been stolen. He tells her he was studying the badly damaged manuscript in the hope of learning the location of the Mask of Kuldarus. Clearly, someone learned of his studies and wants to reach the mask first. Valius asks Rustica to help him retrieve the manuscript and find the mask. This is a compel of Rustica's<strong>Owes Valius Nummus a Favor</strong>aspect.</em> 
+<em>After shooing away his assistants, Valius confidentially tells Rustica that a manuscript he had recently acquired has been stolen. He tells her he was studying the badly damaged manuscript in the hope of learning the location of the Mask of Kuldarus. Clearly, someone learned of his studies and wants to reach the mask first. Valius asks Rustica to help him retrieve the manuscript and find the mask. This is a compel of Rustica's<strong>Owes Valius Nummus a Favor</strong> aspect.</em> 
+
+</blockquote>
 
 That's it! You have your completed adventure, ready to share with your players. Don't forget to roll with their punches, and keep things fluid. Like most good outlines, this one is subject to change at a moment's notice. Don't force the issue of your perfectly devised plans. If the PCs get off-track, find a way to get them back to their goal&mdash;the adventure's trouble aspect, the reason it was inevitable or imperative that they pursue the goal, is a good motivator to get them back on track. But if they are merely pursuing the goal in a way you had not expected, let them! 
 
-<strong>Getting Better At It</strong> 
+### Getting Better At It
 
 Once you grasp how it works, the Fractal Adventure method is quick and straightforward to use when creating scenarios. The unified view makes it easy for the GM to react quickly since there is no sheaf of notes to thumb through, and having the adventure statted like a character makes the GM more like another player at the game table, less like the CEO of the gaming group. 
 
 Ultimately, if you are comfortable improvising in response to your players' ideas, all you really need in an adventure is a strong opening situation that ties to one of your issues, and some good antagonist characters with agendas. The players' interactions with these will create the fiction; the entire group will create scenes on the fly. 
 
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
-
-<a name="ReScaling_a_Campaign"><strong>Re-Scaling a Campaign</strong></a> 
+# Re-Scaling a Campaign
 
 You have plenty of breathing room before the player characters start pushing the default limits through milestones. Still, if you play a continuing campaign for long enough, you'll end up with PCs that are vastly more powerful than when they started. A rule of thumb for this might be when all the PCs have either: 
 
@@ -1450,13 +1427,13 @@ Thanks to the Bronze Rule, you can move to playing entire factions, either as ex
 
 As a result, challenges, contests, and conflicts will be on a whole new scale, but here is the happy news: it doesn't change how they are resolved. We'll still use the same actions, aspects, stunts, stress tracks, and consequences we've been using all along. 
 
-<em>After a lot of play and advancement, Kim's PCs have grown so much that it's time to rescale; the group discusses options and decides that it would be fun to move on to world-spanning plots. Each player gets to create a faction or detail one already created in play, negotiated with the GM to provide some balance.</em> 
+> <em>After a lot of play and advancement, Kim's PCs have grown so much that it's time to rescale; the group discusses options and decides that it would be fun to move on to world-spanning plots. Each player gets to create a faction or detail one already created in play, negotiated with the GM to provide some balance.</em> 
 
-<em>Sharlene's character Rustica has become involved with a Scholar House in play, House Kalamus; this makes a fine faction.</em> 
+> <em>Sharlene's character Rustica has become involved with a Scholar House in play, House Kalamus; this makes a fine faction.</em> 
 
-<em>Ian decides he wants to create a pirate&mdash;ahem, "freebooter"&mdash;league operating among the western islands with Ulf as its leader, and calls it "The Brotherhood of the Claw."</em> 
+> <em>Ian decides he wants to create a pirate&mdash;ahem, "freebooter"&mdash;league operating among the western islands with Ulf as its leader, and calls it "The Brotherhood of the Claw."</em> 
 
-<em>Ben, who plays Iva, would like to control the Virian Order; Kim says that's a bit much since she has plans for the Order, but suggests that he control the Stone-Seekers, which Ben agrees to.</em> 
+> <em>Ben, who plays Iva, would like to control the Virian Order; Kim says that's a bit much since she has plans for the Order, but suggests that he control the Stone-Seekers, which Ben agrees to.</em> 
 
 Note that the original PCs don't have to be the official leaders of these factions, merely aligned with them. Another charm of this approach is that you can re-scale again later by picking umbrella organizations operating at yet a higher level. 
 
@@ -1464,6 +1441,6 @@ For more ideas on creating and playing such wide-ranging entities, refer to Mark
 
 <strong>Scale Down—Play the Little People:</strong>You can choose to scale<em>down</em>instead by playing the PCs' allies and supporters that have been created in the story. In this case, you're essentially creating them as your new player characters, and the former PCs are now high-powered allies that only appear occasionally. This option is very easy to use because the only thing you have to do is fill in new character sheets! 
 
-<em>If Kim's group opted to scale down, Sharlene could play Rustica's research assistant, Ian could play one of Ulf's former sailors, and Ben could play Iva's fawn Kuri, grown up to an adventurous adolescent.</em> 
+> <em>If Kim's group opted to scale down, Sharlene could play Rustica's research assistant, Ian could play one of Ulf's former sailors, and Ben could play Iva's fawn Kuri, grown up to an adventurous adolescent.</em> 
 
 <strong>Scale Up—Play Gods:</strong>If you want to go big, you can always move on to play the deities of your setting. Like the faction option, this means moving challenges, contests, and conflicts to a new world-spanning scope, but one look at real-world mythologies will reassure you that divine plots can also be petty, silly, and absurd! 
