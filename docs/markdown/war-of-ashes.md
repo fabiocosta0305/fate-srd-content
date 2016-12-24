@@ -86,7 +86,6 @@ or
 Because I have <strong>[a weapon that affects multiple targets]</strong>, once per session I can attack every opponent in <strong>[pick one: my zone, an adjacent zone]</strong>. 
 
 See also <strong>"Zones and the Battlefield"</strong> for more info about zones. 
-
 > <strong>Hallberd</strong>: Because I whirl my hallberd with flair, I can use Fight to attack, create advantages, or overcome in my zone or an adjacent zone. 
 
 > <strong>Bow and Arrow</strong>: Because I have a bow and arrow, I can use Shoot to attack, create advantages, or overcome up to three zones away, but not in my zone. 
@@ -570,7 +569,7 @@ Being taken out by Divine Interest consequences can be the signal for a major mi
 
 <strong>The Many Gods:</strong>It is perfectly possible to attract the Divine Interest of more than one deity, which may in turn result in many different group aspects. 
 
-> <em>After many adventures, the heroes managed to attract the<strong>Wrath of Ares</strong>, the <strong>Benevolence of Athena</strong>, and probably the attention of a few other deities as well�</em> 
+> <em>After many adventures, the heroes managed to attract the <strong>Wrath of Ares</strong>, the <strong>Benevolence of Athena</strong>, and probably the attention of a few other deities as well�</em> 
 
 ## Description 
 
@@ -586,35 +585,40 @@ Priests' objectives, then, are to minimize the amount of actual god involvement 
 
 <blockquote>
 
-<strong><em>Magic: The 30-Second Version</em></strong><em><br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--></em> 
+<strong>Magic: The 30-Second Version</strong> 
 
-<em>1. Take an appropriate aspect at character creation.<br> 2. Choose a ritual and perform the required chanting, dancing, and so forth.<br> 3. Make an appropriate approach roll to overcome against the target of the ritual.<br> 4. The GM marks a Divine Interest consequence.<br> 5. Cast the ritual:</em> 
+1. Take an appropriate aspect at character creation.
+2. Choose a ritual and perform the required chanting, dancing, and so forth.
+3. Make an appropriate approach roll to overcome against the target of the ritual.
+4. The GM marks a Divine Interest consequence.
+5. Cast the ritual:
 
-<em><br> </em><strong><em>General ritual</em></strong><em>: Use to create a temporary stunt on a target individual or item;<br> <strong>Battle ritual</strong>: Use during Roar phase to create an aspect appropriate to a curse or blessing on the target group.</em> 
+<strong>General ritual</strong>: Use to create a temporary stunt on a target individual or item;
 
-</blockquote> TODO
+<strong>Battle ritual</strong>: Use during Roar phase to create an aspect appropriate to a curse or blessing on the target group.</em> 
 
-<a name="Use_an_Appropriate_Aspect"><strong>Use an Appropriate Aspect</strong></a> 
+</blockquote>
+
+## Use an Appropriate Aspect
 
 Not everyone can perform magic rituals; you need an aspect that grants permission such as<strong><em>Oracle of Apollo</em></strong>,<strong><em>Freyja-Blessed Seidhr</em></strong>,<strong><em>High Priest of Jupiter</em></strong>, or <strong><em>Self-Trained Hedge Priest of Demeter</em></strong>. 
 
-<a name="Choose_a_Ritual"><strong>Choose a Ritual</strong></a> 
+## Choose a Ritual
 
 Some<em>rituals</em>have similar working in all versions of Agaptan magic, although their trappings will be vastly different from one faction to the next and even one school to the next. In addition, each has its own exclusive rituals. 
-
 Notes for rituals can be literal pieces of writing, but they can also be recorded as complex series of knots in a string, glyphs carved in stone, etc. It's difficult for a priest to decipher rituals from another school, and painstakingly difficult to even guess at another faction's rituals. 
 
 Rituals' primary effect is to allow a blessing or curse to be placed on a<em>target</em>—the person, place, or thing it's being cast on. Sometimes a ritual will also have a<em>subject</em>—the person, place, group, or thing which will be the focus of the ritual's effect on the target. 
 
 <em>A Rage ritual to make Julius angry at Lilia would be cast on Julius (the target) and focused on Lilia (the subject).</em> 
 
-<a name="Casting_A_Ritual"><strong>Casting A Ritual</strong></a> 
+## Casting A Ritual
 
 In order to cast a ritual, the priest must use one or more actions to overcome the target difficulty. With a success, the ritual creates a temporary stunt (see the list below). Rituals that produce good luck or beneficial effects for the target can either give a +2 bonus in narrow circumstances for one scene,<em>or</em>give a one-time special effect before dissipating. Rituals that produce bad luck or negative effects for the target produce a one-time special effect lasting up to one scene, then dissipate. 
 
 Assuming a single target—a person, or a thing perhaps as large as a hut—enough time to chant or mumble the sacred words, and the appropriate ritual trappings, the roll is made against a difficulty of Average (+1). So long as the character succeeds, then the target gains the blessing or curse—see below for details—for the scene or until it is no longer dramatically appropriate, whichever comes first. Further modifications follow: 
 
-[table] 
+[table] TODO
 
 <strong>Target Difficulty</strong> 
 
@@ -640,7 +644,7 @@ Unwilling target Add +1
 
 [/table] 
 
-<br> Larger targets require much more time, the efforts of several priests, and luck. 
+Larger targets require much more time, the efforts of several priests, and luck. 
 
 Some rituals have a subject, such as a ritual that makes your lord mad at his daughter. The absence of that subject similarly impacts the difficulty: +0 if present, +3 if you only have a name, as above. The one qualifier is that if the subject can be made to accept some token of the ritual—a potion, a trinket—then they are effectively "present." Such tokens must be used within a short time, typically three days. 
 
@@ -652,19 +656,18 @@ Some blessings and curses have their own additional modifiers.
 
 High difficulties can be beaten by having multiple priests working together and by treating the ritual as a challenge (see<strong>"Challenges"</strong>.) Create as many steps as you need, assigning static difficulties; the sum of these difficulties must be equal to or greater than the ritual difficulty you calculated. 
 
-<em>Coronos, priest of Ares, is performing a ritual to bless his brother Vettias with good luck; however Vettias is halfway across Achaea, doesn't<strong>want</strong>Coronos's help (or any attention from Ares for that matter), and Coronos has recently displeased Ares by fleeing from battle. He has the Divine consequence<strong>Coward in Ares' Eyes</strong>. The difficulty to cast the spell therefore is +1 (starting), +1 (unwilling target), +3 (Coronos has no link to Vettias), +2 (Ares is displeased), for a total of Epic (+7). Vettias won't go into combat for another day, and Coronos has two assistant priests nearby to help him out. They cast the ritual together and break the difficult ritual into three smaller challenges. </em> 
+> <em>Coronos, priest of Ares, is performing a ritual to bless his brother Vettias with good luck; however Vettias is halfway across Achaea, doesn't<strong>want</strong>Coronos's help (or any attention from Ares for that matter), and Coronos has recently displeased Ares by fleeing from battle. He has the Divine consequence<strong>Coward in Ares' Eyes</strong>. The difficulty to cast the spell therefore is +1 (starting), +1 (unwilling target), +3 (Coronos has no link to Vettias), +2 (Ares is displeased), for a total of Epic (+7). Vettias won't go into combat for another day, and Coronos has two assistant priests nearby to help him out. They cast the ritual together and break the difficult ritual into three smaller challenges. </em> 
 
-<em>Using Skills: First, one of them prays to Ares to forgive Coronos, a Fair (+2) difficulty using the skill Propitiate, then another focuses the ritual on Vettias at a Fair (+2) difficulty, and finally Coronos <strong>forces</strong>his no-good stubborn brother to accept the blessing at a Good (+3) difficulty.</em> 
+> <em>Using Skills: First, one of them prays to Ares to forgive Coronos, a Fair (+2) difficulty using the skill Propitiate, then another focuses the ritual on Vettias at a Fair (+2) difficulty, and finally Coronos <strong>forces</strong>his no-good stubborn brother to accept the blessing at a Good (+3) difficulty.</em> 
 
-<em>Using Approaches: First, one of them Flashily prays to Ares to forgive Coronos, a Fair (+2) difficulty, then another Carefully focuses the ritual on Vettias at a Fair (+2) difficulty, and finally Coronos Forcefully<strong>forces</strong>his no-good stubborn brother to accept the blessing at a Good (+3) difficulty.</em> 
+> <em>Using Approaches: First, one of them Flashily prays to Ares to forgive Coronos, a Fair (+2) difficulty, then another Carefully focuses the ritual on Vettias at a Fair (+2) difficulty, and finally Coronos Forcefully<strong>forces</strong>his no-good stubborn brother to accept the blessing at a Good (+3) difficulty.</em> 
 
 Casting a ritual incurs a Divine Interest consequence. The priest can eliminate this cost—in other words, avoid Divine Interest—by performing the ritual as a challenge instead of a single overcome action: one roll to avoid the god's attention, one roll to cast the ritual, and one roll to make it look coincidental. 
 
-<em>Coronos is at it again! He's trying to perform another difficult ritual but this time he's all alone, and terrified of incurring more of Ares' wrath by praying to a different god, Zeus. The ritual's difficulty is Superb (+5) but Coronos is going to try it anyway. First he avoids the gods' attention with a roll using Stealth (in a skill-based game) or Sneaky (in an approach-based game). Since the gods are often forgetful and currently distracted by a war, the GM sets the difficulty at only Average (+1). Then Coronos casts the ritual itself, hoping nobody around him notices, using Propitiate (skill) or Quick (approach) at the Superb (+5) difficulty. Finally, he pretends he had nothing to do with the storms gathering overhead. Ares may have not been paying attention, but his fellow Athenians sure are wary of him, so the GM sets that at a Good (+3) difficulty for Deceit (skill) or Sneaky (approach). If he succeeds at all three, the ritual is cast without anyone being the wiser and he doesn't gain a Divine consequence. Phew!</em> 
+> <em>Coronos is at it again! He's trying to perform another difficult ritual but this time he's all alone, and terrified of incurring more of Ares' wrath by praying to a different god, Zeus. The ritual's difficulty is Superb (+5) but Coronos is going to try it anyway. First he avoids the gods' attention with a roll using Stealth (in a skill-based game) or Sneaky (in an approach-based game). Since the gods are often forgetful and currently distracted by a war, the GM sets the difficulty at only Average (+1). Then Coronos casts the ritual itself, hoping nobody around him notices, using Propitiate (skill) or Quick (approach) at the Superb (+5) difficulty. Finally, he pretends he had nothing to do with the storms gathering overhead. Ares may have not been paying attention, but his fellow Athenians sure are wary of him, so the GM sets that at a Good (+3) difficulty for Deceit (skill) or Sneaky (approach). If he succeeds at all three, the ritual is cast without anyone being the wiser and he doesn't gain a Divine consequence. Phew!</em> 
 
-<o:p></o:p> 
 
-<strong>Why Risk It?</strong> 
+### Why Risk It?
 
 Why would your priest character bother to cast a ritual and thus get a Divine Interest consequence for the group to worry about? 
 
@@ -678,133 +681,127 @@ Because sometimes it's do or die.
 
 Because it's fun! Divine Interest is part of the flavor of the world of Agaptus, and if your characters are going to be heroes&mdash;even reluctant ones&mdash;then sooner or later they will attract Divine Interest. Embrace the risk! 
 
-<o:p></o:p> 
 
-<o:p></o:p> 
+<strong>You Can Always Cheat</strong><br> Some do it all the time. Your character tells onlookers that you are casting a ritual, you chant some nonsense, and donothing. But if you really want them to believe you, consider using Deceit (skill) or Flashy (approach) to overcome an obstacle, and put on a good show. If you are getting paid to cast the ritual, you pocket the money and go to the nearest tavern to have a drink. Naturally, you can only use this trick so many times before your deception catches up with you. Perhaps your customers become angry, or perhaps the gods are starting to notice anyway
 
-<strong>You Can Always Cheat�</strong><br> Some do it all the time. Your character tells onlookers that you are casting a ritual, you chant some nonsense, and donothing. But if you really want them to believe you, consider using Deceit (skill) or Flashy (approach) to overcome an obstacle, and put on a good show. If you are getting paid to cast the ritual, you pocket the money and go to the nearest tavern to have a drink. Naturally, you can only use this trick so many times before your deception catches up with you. Perhaps your customers become angry, or perhaps the gods are starting to notice anyway� 
 
-<o:p></o:p> 
-
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
-
-<a name="General_Rituals"><strong>General Rituals</strong></a> 
+## General Rituals
 
 Magic rituals typically influence luck in small ways or push and pull on the target's emotions. 
 
 <strong>Annoyance:</strong>The target rubs people the wrong way. If the ritual has a subject, then this particular subject is more easily annoyed by the target of the ritual. Creates temporary stunts like: 
 
-Grating Voice: As a one-time effect lasting one scene, the target's voice is so irritating that those they speak to can hardly remember the actual words. 
+<strong>Grating Voice:</strong> As a one-time effect lasting one scene, the target's voice is so irritating that those they speak to can hardly remember the actual words. 
 
-Looks Like This Jerk I Used to Know: As a one-time effect lasting one scene, the target creates a bad impression on someone they just met. 
+<strong>Looks Like This Jerk I Used to Know:</strong> As a one-time effect lasting one scene, the target creates a bad impression on someone they just met. 
 
-Sounds Fishy to Me: As a one-time effect lasting one scene, the target is refused the assistance they asked for. 
+<strong>Sounds Fishy to Me:</strong> As a one-time effect lasting one scene, the target is refused the assistance they asked for. 
 
 <strong>Charisma:</strong>While related to love, this turns it on its head by improving the target's general presence and demeanor. It's sometimes a subject of ridicule—specifically, ridiculing those who would need such a ritual&mdash;but it sees a lot of quiet use. Creates temporary stunts like: 
 
-Great Hair: For one scene, the target gets +2 to Flashily create an advantage when good looks would matter. 
+<strong>Great Hair:</strong> For one scene, the target gets +2 to Flashily create an advantage when good looks would matter. 
 
-Isn't That the Famous Guy?: As a one-time effect lasting one scene, the target is treated like a Very Important Person by those they meet. 
+<strong>Isn't That the Famous Guy?:</strong> As a one-time effect lasting one scene, the target is treated like a Very Important Person by those they meet. 
 
-Charming Wit: For one scene, that target gets +2 to overcome social opposition with Rapport when they have a chance to impart a witty comment to their audience. 
+<strong>Charming Wit:</strong> For one scene, that target gets +2 to overcome social opposition with Rapport when they have a chance to impart a witty comment to their audience. 
 
 <strong>Clarity:</strong>Popular among those who fancy themselves cutting-edge scholars, for some this ritual is their cup of coffee, sharpening their thoughts and senses and allowing them to study all night. It's also a popular "counter-ritual," used to remove curses. Creates temporary stunts like: 
 
-Ready for a Long Night of Study!: For one scene, the target gets +2 to Carefully create advantages based on detail and research. 
+<strong>Ready for a Long Night of Study!:</strong> For one scene, the target gets +2 to Carefully create advantages based on detail and research. 
 
-Sharp As a Tack: For one scene, the target gets +2 to Forcefully overcome obstacles that would dull their wits, like fatigue or too much kogg. 
+<strong>Sharp As a Tack:</strong> For one scene, the target gets +2 to Forcefully overcome obstacles that would dull their wits, like fatigue or too much kogg. 
 
-Can't Fool Me: For one scene, the target gets +2 to defend against social or verbal attacks based on Deceive. 
+<strong>Can't Fool Me:</strong> For one scene, the target gets +2 to defend against social or verbal attacks based on Deceive. 
 
 <strong>Clumsiness:</strong>You know those days where you dropped a glass, spilled your kogg in your lap, and ripped your shirt on a latch? This makes for that kind of day. Creates temporary stunts like: 
 
-All Thumbs: As a one-time effect lasting one scene, anyone picking up the target object acts unusually clumsy and awkward. 
+<strong>All Thumbs:</strong> As a one-time effect lasting one scene, anyone picking up the target object acts unusually clumsy and awkward. 
 
-I Never Even Saw It: As a one-time effect, the target collides while in motion (walking, running, riding, etc.) with someone or something they had not noticed. 
+<strong>I Never Even Saw It:</strong> As a one-time effect, the target collides while in motion (walking, running, riding, etc.) with someone or something they had not noticed. 
 
-It Could Happen to Anyone: As a one-time effect, the target missteps, or drops an object they were holding. 
+<strong>It Could Happen to Anyone:</strong> As a one-time effect, the target missteps, or drops an object they were holding. 
 
 <strong>Confusion:</strong>People tend to misunderstand the target if it's a person, or get easily lost if it's a place. Creates temporary stunts like: 
 
-It's That Accent: As a one-time effect lasting one scene, the target has difficulty getting understood, and everyone misinterprets their speech. 
+<strong>It's That Accent:</strong> As a one-time effect lasting one scene, the target has difficulty getting understood, and everyone misinterprets their speech. 
 
-Was It Left or Right?: As a one-time effect lasting one scene, people reaching the target location become disoriented and tend to retrace their steps or take the wrong path. 
+<strong>Was It Left or Right?:</strong> As a one-time effect lasting one scene, people reaching the target location become disoriented and tend to retrace their steps or take the wrong path. 
 
-What Was the Middle Part Again?: As a one-time effect lasting one scene, the target forgets or jumbles the instructions they received and commits a rookie mistake. 
+<strong>What Was the Middle Part Again?:</strong> As a one-time effect lasting one scene, the target forgets or jumbles the instructions they received and commits a rookie mistake. 
 
 <strong>Health:</strong>The magical equivalent of your mom's chicken soup. Creates temporary stunts like: 
 
-Feeling Better Now: As a one-time effect, the target can immediately clear a mild health-related consequence (injury or illness). For a +2 difficulty, the target can immediately downgrade a moderate consequence to mild; for a +4 difficulty, the target can downgrade one severe consequence to moderate. Only one target can be affected per scene, and consequences can only be improved once per session this way. 
+<strong>Feeling Better Now:</strong> As a one-time effect, the target can immediately clear a mild health-related consequence (injury or illness). For a +2 difficulty, the target can immediately downgrade a moderate consequence to mild; for a +4 difficulty, the target can downgrade one severe consequence to moderate. Only one target can be affected per scene, and consequences can only be improved once per session this way. 
 
-Top Form: As a one-time effect lasting one scene, the target gets an extra mild consequence slot. If the extra mild consequence scene is not used in the scene, it vanishes at the end of the scene. If the target takes two mild consequences in the scene, they both last until the end of the next scene. 
+<strong>Top Form:</strong> As a one-time effect lasting one scene, the target gets an extra mild consequence slot. If the extra mild consequence scene is not used in the scene, it vanishes at the end of the scene. If the target takes two mild consequences in the scene, they both last until the end of the next scene. 
 
-Strong as an Ox: For one scene, the target gets +2 to Physique when overcoming obstacles that require feats of strength. 
+<strong>Strong as an Ox:</strong> For one scene, the target gets +2 to Physique when overcoming obstacles that require feats of strength. 
 
 <strong>Love:</strong>One of the better-known but also most contentious rituals, especially when used with a subject. Without a subject, it simply makes the target more friendly towards the world, but with a subject, it inclines the target toward the subject. A lot of people view this as skeezy at best. It's a touchy topic, and a number of priests get around this by deliberately casting dud rituals. Creates temporary stunts like: 
 
-Be Still, My Heart!: As a one-time effect lasting one scene, the target is distracted with interest for the subject, eager to make a good impression on them. 
+<strong>Be Still, My Heart!:</strong> As a one-time effect lasting one scene, the target is distracted with interest for the subject, eager to make a good impression on them. 
 
-Hey, Check This Out!: For one scene, the subject gets +2 to Flashily create advantages by befriending, charming, or flattering the target. 
+<strong>Hey, Check This Out!:</strong> For one scene, the subject gets +2 to Flashily create advantages by befriending, charming, or flattering the target. 
 
-What A Wonderful Day!: As a one-time effect lasting one scene, the target is as cheerful and well-disposed as circumstances allow. If in an adverse situation (pursued by hungry wolves, chained at the oars of a war galley, etc.), the target keeps up their spirits and see the silver lining to every cloud. 
+<strong>What A Wonderful Day!:</strong> As a one-time effect lasting one scene, the target is as cheerful and well-disposed as circumstances allow. If in an adverse situation (pursued by hungry wolves, chained at the oars of a war galley, etc.), the target keeps up their spirits and see the silver lining to every cloud. 
 
 <strong>Luck:</strong>This is the most common ritual in circulation, and it can take the form of good or bad luck. Creates temporary stunts like: 
 
-This Is My Day: For one scene, the target gets +2 to Quickly overcoming dangerous obstacles. 
+<strong>This Is My Day:</strong> For one scene, the target gets +2 to Quickly overcoming dangerous obstacles. 
 
-I Should Have Stayed in Bed: As a one-time effect lasting one scene, the target is the victim of a mishap such as mistaken identity, lost purse, stolen cart, mud splash, etc. 
+<strong>I Should Have Stayed in Bed:</strong> As a one-time effect lasting one scene, the target is the victim of a mishap such as mistaken identity, lost purse, stolen cart, mud splash, etc. 
 
-Wow, Really?: As a one-time effect lasting one scene, the target benefits from a happy coincidence such as finding a long-lost item, being favorably noticed by their superior, or getting the best seat in the theater. 
+<strong>Wow, Really?:</strong> As a one-time effect lasting one scene, the target benefits from a happy coincidence such as finding a long-lost item, being favorably noticed by their superior, or getting the best seat in the theater. 
 
 <strong>Obscurity:</strong>The target is easily overlooked—by the subject, if appropriate. Whether this is a blessing or a curse depends a lot on your perspective. Creates temporary stunts like: 
 
-Not Worth Paying Attention To: For one scene, the target gets +2 to Sneakily create advantages based on remaining in the background. 
+<strong>Not Worth Paying Attention To:</strong> For one scene, the target gets +2 to Sneakily create advantages based on remaining in the background. 
 
-This Has Been There Forever: As a one-time effect lasting one scene, the target item is overlooked by passers-by. 
+<strong>This Has Been There Forever:</strong> As a one-time effect lasting one scene, the target item is overlooked by passers-by. 
 
-Ho-Hum: For one scene, the target gets +2 to Deceive when defending against attempts to discover their true identity. 
+<strong>Ho-Hum:</strong> For one scene, the target gets +2 to Deceive when defending against attempts to discover their true identity. 
 
 <strong>Prosperity:</strong>Another popular blessing, financial things fall the target's way. It's rare that this turns into a large windfall, but it can show up as a loan extension or free drinks. Creates temporary stunts like: 
 
-Next One's On Me: As a one-time effect, someone buys the target a meal or a drink. 
+<strong>Next One's On Me:</strong> As a one-time effect, someone buys the target a meal or a drink. 
 
-It Must Have Been in the Lining of My Pocket: As a one-time effect, the target finds a small, useful object in a pocket, usually a coin. 
+<strong>It Must Have Been in the Lining of My Pocket:</strong> As a one-time effect, the target finds a small, useful object in a pocket, usually a coin. 
 
-Ride That Streak: For one scene, the target gets +2 to Cleverly overcome while gambling. Naturally, anyone caught casting this sort of ritual will be run out of town with extreme prejudice� 
+<strong>Ride That Streak:</strong> For one scene, the target gets +2 to Cleverly overcome while gambling. Naturally, anyone caught casting this sort of ritual will be run out of town with extreme prejudice� 
 
 <strong>Rage:</strong>Small things annoy the target more than usual, as if they'd woken up on the wrong side of the bed. If the ritual has a subject, then the target of the ritual is more easily enraged by that subject. Creates temporary stunts like: 
 
-I Swear, If They Ask One More Time�: As a one-time effect lasting one scene, the target snaps at the next person who talks to them or approaches them. This does not mean the target will place themselves in danger—a merchant won't attack an armed warrior, but she may be short-tempered and unhelpful. 
+<strong>I Swear, If They Ask One More Time:</strong> As a one-time effect lasting one scene, the target snaps at the next person who talks to them or approaches them. This does not mean the target will place themselves in danger—a merchant won't attack an armed warrior, but she may be short-tempered and unhelpful. 
 
-Raw Nerves: For one scene, you or an ally get +2 to Provoke when create an advantage by goading the target into anger. 
+<strong>Raw Nerves:</strong> For one scene, you or an ally get +2 to Provoke when create an advantage by goading the target into anger. 
 
-I'm Not Gonna Take It Anymore: As a one-time effect lasting one scene, the target gets angry whenever a particular topic comes up. 
+<strong>I'm Not Gonna Take It Anymore:</strong> As a one-time effect lasting one scene, the target gets angry whenever a particular topic comes up. 
 
 <strong>Safety:</strong>Keeps the target or area safer than it would be. Creates temporary stunts like: 
 
-Not Worth Attacking: For one scene, the target gets +2 to Deceive when defending against search attempts. 
+<strong>Not Worth Attacking:</strong> For one scene, the target gets +2 to Deceive when defending against search attempts. 
 
-Nothing Going On Here: As a one-time effect lasting one scene, the target location attracts no attention unless and until someone does something noteworthy, like screaming for help, having a fight, etc. 
+<strong>Nothing Going On Here:</strong> As a one-time effect lasting one scene, the target location attracts no attention unless and until someone does something noteworthy, like screaming for help, having a fight, etc. 
 
-Snug As a Bug in a Rug: For one scene, the target gets +2 to Sneakily create an advantage by hiding. 
+<strong>Snug As a Bug in a Rug:</strong> For one scene, the target gets +2 to Sneakily create an advantage by hiding. 
 
 <strong>Augury:</strong>A peek into the near-future. Creates temporary stunts like: 
 
-I Saw This Coming: As a one-time effect, the target can choose to completely avoid the effects of one attack instead of rolling defense. 
+<strong>I Saw This Coming:</strong> As a one-time effect, the target can choose to completely avoid the effects of one attack instead of rolling defense. 
 
-I Had a Hunch: As a one-time effect, the target can claim to have made any preparation for the scene such as bringing an object, speaking to a contact, prepared a meal, etc., if they could reasonably have done so by knowing in advance this situation was coming. 
+<strong>I Had a Hunch:</strong> As a one-time effect, the target can claim to have made any preparation for the scene such as bringing an object, speaking to a contact, prepared a meal, etc., if they could reasonably have done so by knowing in advance this situation was coming. 
 
-Two Steps Ahead of You: For one scene, the target gets +2 to Quickly overcome obstacles and challenges that are also based on speed. 
+<strong>Two Steps Ahead of You:</strong> For one scene, the target gets +2 to Quickly overcome obstacles and challenges that are also based on speed. 
 
-<em>A band of soldiers are pounding on the door of the abandoned farm house where our heroes are spending the night. Gudrun the Witch asks her daughter Siggi to hide in the root cellar while she goes out to check the source of ominous noises. Before she leaves, she casts a Safety ritual, invoking Frigg's protection.</em> 
+> <em>A band of soldiers are pounding on the door of the abandoned farm house where our heroes are spending the night. Gudrun the Witch asks her daughter Siggi to hide in the root cellar while she goes out to check the source of ominous noises. Before she leaves, she casts a Safety ritual, invoking Frigg's protection.</em> 
 
-<em>The target (Siggi) is present (+0), normal size (+0), there is no specific subject because Gudrun doesn't know who the threat is, so the difficulty would normally be Average (+1). However, time is of the essence so Gudrun wants to shorten the ritual; the GM says this will increase the difficulty to Fair (+2) and require the use of the Quick approach.</em> 
+> <em>The target (Siggi) is present (+0), normal size (+0), there is no specific subject because Gudrun doesn't know who the threat is, so the difficulty would normally be Average (+1). However, time is of the essence so Gudrun wants to shorten the ritual; the GM says this will increase the difficulty to Fair (+2) and require the use of the Quick approach.</em> 
 
-<em>Gudrun's player agrees and rolls for Gudrun's ritual, to Quickly create an advantage; the dice roll[</em>0+00]<em>and Gudrun's Quick approach is +2, for a total of +3 (Good), which beats the difficulty. Gudrun's ritual gives Siggi the stunt</em><strong>Nothing Going On Here</strong><em>.</em> 
+> <em>Gudrun's player agrees and rolls for Gudrun's ritual, to Quickly create an advantage; the dice roll[</em>0+00]<em>and Gudrun's Quick approach is +2, for a total of +3 (Good), which beats the difficulty. Gudrun's ritual gives Siggi the stunt</em><strong>Nothing Going On Here</strong><em>.</em> 
 
-<em>The GM notes a mild Divine Interest consequence for casting a ritual; the roll and result did not generate additional points.</em> 
+> <em>The GM notes a mild Divine Interest consequence for casting a ritual; the roll and result did not generate additional points.</em> 
 
-<a name="Battle_Rituals"><strong>Battle Rituals</strong></a> 
+## Battle Rituals
 
 A particular type of ritual, called<em>battle rituals</em>, are used to affect the priest's entire side of the conflict <strong>before the actual conflict begins</strong>. They work differently from general ritual: instead of creating temporary stunts, the priest uses the battle ritual to create magical situation aspects with free invocations. Battle rituals' effects typically last until the end of the conflict scene.  
 
@@ -822,67 +819,54 @@ Optional: If you are using the Roar Phase rules, battle rituals are used <em>onl
 
 <strong>We Are Legion!</strong>:Battle priests use this ritual to bolster the focus and discipline of units for the scene, helping them through the often complex battlefield maneuvers required by commanders. Creates advantages like<em>Soldiers, Advance!</em>,<em>Form Up the Ranks!</em>, or<em>To Me, Brothers!</em>. By spending a fate point or using a free invocation and invoking for effect, the targets can also ignore adverse terrain aspects for all zones they move through this turn. In other words, these aspects cannot be invoked against them to oppose movement. 
 
-<strong>Using skills</strong>: 
+### Using skills: 
 
 Chaka the shaman, in preparation for the upcoming battle, casts the ritual "Troop Movement" on his scout unit to help them make it through the dense forest and flank the enemy. Chaka's player rolls [+0+-] plus his Will (+2) versus the difficulty of Fair (+2), for a total of +1 (Average) and a success. The scouts can now use the aspect <strong><em>Stalking on Leopards' Feet</em></strong> with one free invocation. The group also gets one Divine Interest consequence for the use of magic. 
 
-<strong>Using approaches and the Roar phase</strong>: 
+### Using approaches and the Roar phase:
 
-<em>During the Roar phase, Sven casts the ritual </em><em>"Our God Will Smite Them All!" on the crew of the</em>Skyhammer<em>to get them ready to fight in the upcoming boarding action against the </em>Fiero<em>. The difficulty is Fair (+2).</em> 
+> <em>During the Roar phase, Sven casts the ritual </em><em>"Our God Will Smite Them All!" on the crew of the</em>Skyhammer<em>to get them ready to fight in the upcoming boarding action against the </em>Fiero<em>. The difficulty is Fair (+2).</em> 
 
-<em>Sven yells to the sky and sea for aid and the group agrees that sounds like the Flashy (+3) approach. Sven's player rolls an amazing[</em>++++]<em>, for a total of +5 (Superb) and succeeds with style.</em> 
+> <em>Sven yells to the sky and sea for aid and the group agrees that sounds like the Flashy (+3) approach. Sven's player rolls an amazing[</em>++++]<em>, for a total of +5 (Superb) and succeeds with style.</em> 
 
-<em>Sven is now roaring with the aspect<strong>Smite, SMITE!</strong>and is limited to using the Forceful, Flashy, and Clever approaches to maintain the ritual during the conflict.</em> 
+> <em>Sven is now roaring with the aspect<strong>Smite, SMITE!</strong>and is limited to using the Forceful, Flashy, and Clever approaches to maintain the ritual during the conflict.</em> 
 
-<em>The crew of the</em>Skyhammer<em>rejoice and can use the<strong>Smite, SMITE!</strong>aspect normally or invoke it for effect to gain an extra mild consequence for the fight.</em> 
+> <em>The crew of the</em>Skyhammer<em>rejoice and can use the<strong>Smite, SMITE!</strong>aspect normally or invoke it for effect to gain an extra mild consequence for the fight.</em> 
 
-<em>The gods take notice of course. The group gets one Divine Interest consequence for Sven casting the ritual and a second for the natural[</em>++++]<em>that was rolled. It could be Tyr excited by the battle, but the GM thinks it will be more fun for Loki to take notice!</em> 
+> <em>The gods take notice of course. The group gets one Divine Interest consequence for Sven casting the ritual and a second for the natural[</em>++++]<em>that was rolled. It could be Tyr excited by the battle, but the GM thinks it will be more fun for Loki to take notice!</em> 
 
-<a name="Wondrous_Artifacts_of_the_Anci"><strong>Wondrous Artifacts of the Ancients</strong></a> 
+## Wondrous Artifacts of the Ancients 
 
 Our Ancient ruins are to fantasy worlds what abandoned Roman roads, bridges, temples, and aqueducts would have been to inhabitants of the British Isles circa 900 A.D. They also borrow flavors from ancient marvels of architecture from around the world like the ones left by the Mayans, Inca, Zhou Chinese, Ancient Egyptians, Khmer, etc., and from fiction like legendary Atlantis, Mu, Shambhala, and so forth. 
 
 They are forgotten, made nearly invisible by their ubiquity; everywhere in Sentia one sees ruins, and entire villages and cities are built among these. In addition, the incipient ice age has driven the land's inhabitants to live underground more and more often; what better place than the catacombs, vaults, and half-buried palaces of the Ancients, with their unmatched masonry? 
 
-<o:p></o:p> 
+<blockquote>
 
 <strong>Is it Magic?</strong> 
 
 These marvels are not magic, except in the sense of Arthur C. Clarke's Third Law ("Any sufficiently advanced technology is indistinguishable from magic."); they come from advanced but forgotten knowledge. Based on real-world knowledge developed millennia ago but either forgotten or never applied to practical uses, we could picture advances in: 
 
-architecture 
+- architecture 
+- civil engineering 
+- mining and metallurgy 
+- cartography 
+- navigation, including instruments like the compass, backstaff, astrolabe, quadrants, sextant, tide tables 
+- astronomy, including instruments like ephemerids, simple telescopes, and armillary spheres 
+- medicine and anatomy 
+- mathematics 
+- textiles and dyes 
+- printing 
+- paints and lacquers 
+- physics and chemistry 
+- masonry, stone-cutting, and mosaic 
+- glass-blowing, ceramics, glazes 
+- Ship-building 
+- And probably many more; mysterious, poorly understood knowledge. No magic need be involved. 
 
-civil engineering 
+</blockquote>
 
-mining and metallurgy 
-
-cartography 
-
-navigation, including instruments like the compass, backstaff, astrolabe, quadrants, sextant, tide tables 
-
-astronomy, including instruments like ephemerids, simple telescopes, and armillary spheres 
-
-medicine and anatomy 
-
-mathematics 
-
-textiles and dyes 
-
-printing 
-
-paints and lacquers 
-
-physics and chemistry 
-
-masonry, stone-cutting, and mosaic 
-
-glass-blowing, ceramics, glazes 
-
-Ship-building 
-
-And probably many more; mysterious, poorly understood knowledge. No magic need be involved. 
-
-<a name="Mechanics"><strong>Mechanics</strong></a> 
+## Mechanics 
 
 Ancient wonders work primarily as plot drivers, influencing the story: MacGuffins, <em>deus ex machina</em>, objects of quests, and the chance for sweeping changes in the balance of power if some of those secrets are unlocked. 
 
@@ -922,7 +906,7 @@ Let's look at a second example, something that is still a building but where the
 
 <strong>Example 2: The ruins of an Ancient apothecary shop.</strong> 
 
-When you open the scene, you may have this listed as a <em>Small Half-Collapsed Building</em> and let the players do a bit of snooping—perhaps treated as a challenge—before they can discover the aspect <em>Half-Collapsed Apothecary Shop</em>. Note that we've now replaced or redefined what was a scene aspect. Now, every time they return, the PCs will find the <em>Half-Collapsed Apothecary Shop</em>, at least until they manage to demolish it further� 
+When you open the scene, you may have this listed as a <em>Small Half-Collapsed Building</em> and let the players do a bit of snooping—perhaps treated as a challenge—before they can discover the aspect <em>Half-Collapsed Apothecary Shop</em>. Note that we've now replaced or redefined what was a scene aspect. Now, every time they return, the PCs will find the <em>Half-Collapsed Apothecary Shop</em>, at least until they manage to demolish it further 
 
 The players may want to get some practical use out of a location like this, so if this is meant to be a chance for them to reduce some consequences they have taken previously, you could assign it the stunt: 
 
@@ -968,9 +952,9 @@ Instead of trying to list them, it may make more sense to just grant a number of
 
 Because it might be a coveted item that sees a lot of use, the GM might also want to give it a stress track, say one or two boxes, and even a minor consequence to represent some of the tools getting warped or broken. 
 
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
+<blockquote>
 
-<a name="Creating_Wonders_The_30Second_"><strong>Creating Wonders: The 30-Second Version</strong></a> 
+<strong>Creating Wonders: The 30-Second Version</strong>
 
 1. Give the Wondrous Creation a High Concept representing its purpose or nature, and a Flaw representing its dangers or weaknesses. 
 
@@ -980,13 +964,17 @@ Because it might be a coveted item that sees a lot of use, the GM might also wan
 
 4. If you want to limit the use of such stunt, give it a number of uses and check one off after every use. When all the use boxes are checked off, the stunt stops working for good. 
 
-5. If the Wondrous Creation is a coveted item that sees a lot of use, the GM might also want to give it a stress track, say one or two boxes, and even a minor consequence to represent some of its parts getting warped or broken. 
+5. If the Wondrous Creation is a coveted item that sees a lot of use, the GM might also want to give it a stress track, say one or two boxes, and even a minor consequence to represent some of its parts getting warped or broken.  
 
-<a name="Adventure_Creation_Expanded"><strong>Adventure Creation, Expanded</strong></a> 
+</blockquote>
+
+# Adventure Creation, Expanded
 
 This section expands on the advice provided in <strong>Chapter 9</strong> of <em>Fate Core</em> using a method for writing scenarios called <em>Fractal Adventures</em>, which relies heavily on the Bronze Rule ofFate. It was created by author Ryan M. Danks, and a more detailed discussion of the method can be found on his website, starting with Fate Core: Adventure Fractal <a href="http://ryanmdanks.com/?p=476">http://ryanmdanks.com/?p=476</a> . 
 
 A<em>scenario</em>or<em>adventure</em>is one short story arc, the sort of thing you might see wrapped up in one or two sessions of an adventure television show, even if it's a smaller part of a bigger story. Usually you can wrap up a scenario in one to three game sessions, assuming you play for three or four hours at a time. But what is a scenario, and how do you build one? 
+
+<blockquote>
 
 <strong>Creating A Scenario: The 30-Second Version</strong> 
 
@@ -1006,15 +994,15 @@ A<em>scenario</em>or<em>adventure</em>is one short story arc, the sort of thing 
 
 Once you get the hang of it, writing an adventure should take about twenty minutes, assuming you already know what the story will be about. 
 
-<a name="Goal_and_High_Concept_Aspect"><strong>Goal and High Concept Aspect</strong></a> 
+</blockquote>
+
+## Goal and High Concept Aspect
 
 First, you need a goal; this is the problem(s) the story will center around. What is it the PCs want? Create an aspect to represent the goal; you can call it the adventure's high concept. 
 
 Once you know the goal, decide whether or not the PCs will obtain their goal&mdash;"maybe" is a sufficient answer here, relying on the PCs to determine success or failure on their own. It isn't always necessary that they succeed; failure leads to more adventures. 
 
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
-
-<a name="Find_Problems"><strong>Find Problems</strong></a> 
+## Find Problems 
 
 Scenarios are centered around a problem which the heroes will try to solve, encountering twists and turns as they move towards resolution. 
 
@@ -1028,7 +1016,7 @@ And that's how your "problem" is born.
 
 Here's the best tool to make sure the PCs can't ignore the hook: go fishing from their character sheets for problems they<em>want</em>to interact with, and from the campaign aspects for problems which they are<em>bribed</em>to tackle. 
 
-<strong>Problems and Character Aspects</strong> 
+### Problems and Character Aspects
 
 Look at the characters' aspects and see if anything can make a nice juicy core problem for an adventure. When you're trying to get a problem from a character aspect, try fitting it into this sentence: 
 
@@ -1048,13 +1036,13 @@ Does the aspect describe something or someone important to the character that yo
 
 As long as whatever you put in the third blank makes a nice story problem, you're good to go. 
 
-<em>Ulf Long-Teeth has<strong>The Good Ship</strong></em>Blaggard<em>, which implies that he inherited his ship from somewhere. Because of that, it would be a problem for him if he was challenged for command.</em> 
+> <em>Ulf Long-Teeth has<strong>The Good Ship</strong></em>Blaggard<em>, which implies that he inherited his ship from somewhere. Because of that, it would be a problem for him if he was challenged for command.</em> 
 
-<em>Iva the Stubborn is<strong>Searching for Her Banished Lover</strong>, which implies that her lover has enemies at home. Because of this, it would be a problem for her if she needed help from one of his enemies to find her lover's whereabouts.</em> 
+> <em>Iva the Stubborn is<strong>Searching for Her Banished Lover</strong>, which implies that her lover has enemies at home. Because of this, it would be a problem for her if she needed help from one of his enemies to find her lover's whereabouts.</em> 
 
-<em>Rustica Bibulus is a<strong>Connoisseur of Atronian Folklore</strong>, which implies that such folklore may contain elements of truth that have been overlooked by scholars. Because of this, it would be a problem for her if the pursuit of an obscure legend brought her face to snout with a mythical monster.</em> 
+> <em>Rustica Bibulus is a<strong>Connoisseur of Atronian Folklore</strong>, which implies that such folklore may contain elements of truth that have been overlooked by scholars. Because of this, it would be a problem for her if the pursuit of an obscure legend brought her face to snout with a mythical monster.</em> 
 
-<strong>Problems and Game Aspects</strong> 
+### Problems and Game Aspects
 
 Problems you get from a game's current and impending issues will be a little wider in scope than character-driven problems, affecting all your PCs and possibly a significant number of NPCs as well. The game aspects include the ones you chose in your campaign creation process, any scenario or adventure aspects, and perhaps some lingering aspects from a previous adventure. 
 
@@ -1074,13 +1062,13 @@ Who else cares about dealing with the issue, and how might their "solution" be b
 
 What's a good next step for resolving the issue, and what makes accomplishing that step hard? 
 
-<em>Because the<strong>Lost Island of Konar�</strong>is an issue, it implies that the location is both hard to find and dangerous. Therefore, having to retrieve a map from Kuld-infested territory would probably create a big problem for the heroes.</em> 
+> <em>Because the<strong>Lost Island of Konar</strong>is an issue, it implies that the location is both hard to find and dangerous. Therefore, having to retrieve a map from Kuld-infested territory would probably create a big problem for the heroes.</em> 
 
-<em>Because<strong>Secrets of the Ice</strong>is an issue, it implies that the information is valuable, coveted, and protected. Therefore, reaching an elderly scholar and protecting him before rivals capture him would probably create a big problem for the heroes.</em> 
+> <em>Because<strong>Secrets of the Ice</strong>is an issue, it implies that the information is valuable, coveted, and protected. Therefore, reaching an elderly scholar and protecting him before rivals capture him would probably create a big problem for the heroes.</em> 
 
-<em>Because<strong>The Seal of Prolyus</strong>is an issue, it implies that the organization has gathered temporal power. Therefore, an alliance of the organization with a powerful Merchant House would probably create a big problem for the heroes.</em> 
+> <em>Because<strong>The Seal of Prolyus</strong>is an issue, it implies that the organization has gathered temporal power. Therefore, an alliance of the organization with a powerful Merchant House would probably create a big problem for the heroes.</em> 
 
-<strong>Problems and Aspect Pairs</strong> 
+### Problems and Aspect Pairs
 
 You can also create problems from the relationship between two aspects instead of relying on just one. That lets you keep things personal, but broaden the scope of your problem to impact multiple characters, or thread a particular PC's story into the story of the game. 
 
@@ -1102,13 +1090,13 @@ Do the aspects point to backstory elements that can intersect in the present?
 
 Is there a way for one PC's fortune to become another's misfortune, because of the aspects? 
 
-<em>Because Ulf has<strong>Family Trumps Everything. Almost.</strong>and Iva has<strong>Single Mother With A Fawn</strong>, it implies that Ulf is loyal to his family but also understands family loyalty in others. Therefore, siblings of Ulf hired to kidnap Iva's fawn to blackmail her would probably be a big problem for heroes.</em> 
+> <em>Because Ulf has<strong>Family Trumps Everything. Almost.</strong>and Iva has<strong>Single Mother With A Fawn</strong>, it implies that Ulf is loyal to his family but also understands family loyalty in others. Therefore, siblings of Ulf hired to kidnap Iva's fawn to blackmail her would probably be a big problem for heroes.</em> 
 
-<em>Because Rustica has<strong>Overachieving Elvorix Scholar</strong>and Ulf has<strong>Out to Make A Name for Himself!</strong>, it implies that they are both ambitious and competitive. Therefore, finding the clues to a treasure trove of Ancient artifacts, which Rustica wants to remain secret to all but the Academy, and which Ulf wants to describe in heroic tales of his mighty deeds, would probably be a big problem for the heroes.</em> 
+> <em>Because Rustica has<strong>Overachieving Elvorix Scholar</strong>and Ulf has<strong>Out to Make A Name for Himself!</strong>, it implies that they are both ambitious and competitive. Therefore, finding the clues to a treasure trove of Ancient artifacts, which Rustica wants to remain secret to all but the Academy, and which Ulf wants to describe in heroic tales of his mighty deeds, would probably be a big problem for the heroes.</em> 
 
-<em>Because Iva has<strong>Sponsored by the Stone-Seekers</strong>and Rustica has<strong>Owes Valius Nummus a Favor</strong>, it implies that their patrons have their own agendas. Therefore, Iva and Rustica both promising to bring back the same Ancient artifact, the Mask of Kuldarus, to their respective sponsors would probably be a big problem for the heroes.</em> 
+> <em>Because Iva has<strong>Sponsored by the Stone-Seekers</strong>and Rustica has<strong>Owes Valius Nummus a Favor</strong>, it implies that their patrons have their own agendas. Therefore, Iva and Rustica both promising to bring back the same Ancient artifact, the Mask of Kuldarus, to their respective sponsors would probably be a big problem for the heroes.</em> 
 
-<strong>Character Aspect and Game Aspect</strong> 
+### Character Aspect and Game Aspect 
 
 Because you have <strong>[aspect]</strong> and [aspect] is an issue, it implies that [fact about the character or the world]. Therefore, [describe a situation] would probably be a big problem for you. 
 
@@ -1120,15 +1108,15 @@ Is the next step to dealing with the issue something that impacts a particular c
 
 Does someone connected to the issue have a particular reason to target the PC because of an aspect? 
 
-<em>Because Rustica has<strong>The Collected Notes of Peony the Elder</strong>and<strong>The Seal of Prolyus</strong>is an issue, it implies that the manuscript might be worth much to the secret organization. Therefore, the Seal of Prolyus trying to steal the notes from Rustica would probably be a big problem for her.</em> 
+> <em>Because Rustica has<strong>The Collected Notes of Peony the Elder</strong>and<strong>The Seal of Prolyus</strong>is an issue, it implies that the manuscript might be worth much to the secret organization. Therefore, the Seal of Prolyus trying to steal the notes from Rustica would probably be a big problem for her.</em> 
 
-<em>Because Ulf has<strong>The Good Ship</strong></em>Blagaard<em>and<strong>Lost Island of Konar�</strong>is an issue, it implies that Ulf will face some challenges when he sails his ship in search of the lost island. Therefore, the</em>Blagaard<em>becoming trapped in a Bermuda Triangle-like area of sea would probably be a big problem for him.</em> 
+> <em>Because Ulf has<strong>The Good Ship</strong></em>Blagaard<em>and<strong>Lost Island of Konar�</strong>is an issue, it implies that Ulf will face some challenges when he sails his ship in search of the lost island. Therefore, the</em>Blagaard<em>becoming trapped in a Bermuda Triangle-like area of sea would probably be a big problem for him.</em> 
 
-<em>Because Iva has<strong>I Can See Further Than You Ever Have</strong>and<strong>Secrets of the Ice</strong>is an issue, it implies that Iva will be interested in the long-term effects of the Great Catastrophe on the ice. Therefore, choosing between pursuing the mission the heroes undertook or dropping it to pursue new information about the cause of the new ice age would probably be a big problem for her.</em> 
+> <em>Because Iva has<strong>I Can See Further Than You Ever Have</strong>and<strong>Secrets of the Ice</strong>is an issue, it implies that Iva will be interested in the long-term effects of the Great Catastrophe on the ice. Therefore, choosing between pursuing the mission the heroes undertook or dropping it to pursue new information about the cause of the new ice age would probably be a big problem for her.</em> 
 
 You can also browse the story seeds in this book and see if any of them generate ideas for connections with your character aspects, issues, and campaign aspects. 
 
-<a name="Trouble_Aspect"><strong>Trouble Aspect</strong></a> 
+## Trouble Aspect
 
 How will you make it inevitable that the PCs will act toward that goal? To keep tension as you move from scene to scene, create a trouble aspect. This should represent the danger or death that's overhanging in the adventure; again, if there's no chance of physical, psychological, or professional death at all times, there is no tension, which means a boring game. The trouble is what happens if the PCs ignore the adventure, and also what will step in from time to time and remind them why what they are doing matters. 
 
@@ -1144,13 +1132,13 @@ How will you make it inevitable that the PCs will act toward that goal? To keep 
 
 <em>The wrong hands, or at least some wrong hands�</em> 
 
-<strong>Reinforcing the Themes</strong> 
+### Reinforcing the Themes
 
 If you want the adventure's aspects to strongly color the action, make them known to the players and allow the players to invoke these adventure aspects like any other. 
 
-<br> <!--[if !supportLineBreakNewLine]--><br> <!--[endif]--> 
+## Scene List: Ask Story Questions
 
-<a name="Scene_List_Ask_Story_Questions"><strong>Scene List: Ask Story Questions</strong></a> 
+TODO
 
 Once you have your goal, work backwards to create the scene list&mdash;scenes are where players get to play; without them, you have no game. This is where you need to create a list of story questions. 
 
